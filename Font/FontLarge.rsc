@@ -2,7 +2,7 @@ Font resource
 {
 	CharacterSet _characterSet = "Font/CharacterSet.rsc";
 	String _fontName = "Microsoft YaHei";
-	int _fontHeight = 37;
+	int _fontHeight = 35;
 	String _sheetName = "Build/FontLargeSheet.rsc";
 	int _sheetWidth = 1448;
 	int _sheetHeight = 1448;

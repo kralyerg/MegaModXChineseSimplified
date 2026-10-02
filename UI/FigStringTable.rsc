@@ -1,0 +1,15 @@
+StringTable resource
+{
+	Entry _strings
+	[
+		{
+			String _name = "SeedFig";
+			String _text = "无花果种子";
+		}
+		{
+			String _name = "Fig";
+			String _text = "无花果";
+		}
+	]
+
+}

@@ -164,145 +164,145 @@ StringTable resource
 		{ String _name = "NMTCornerHouseM1F1Lwr";					String _text = "中世纪转角住宅一楼"; }
 		{ String _name = "NMTCornerHouseM1F1Tip";					String _text = "中世纪转角住宅一楼。警告：与铁匠铺、裁缝店、酒馆和面包房升级款式相同。"; }
 
-		{ String _name = "NMTCornerHouseM1F1A";					String _text = "中世纪转角住宅一楼"; }
-		{ String _name = "NMTCornerHouseM1F1ALwr";					String _text = "中世纪转角住宅一楼"; }
-		{ String _name = "NMTCornerHouseM1F1ATip";					String _text = "中世纪转角住宅一楼。警告：与铁匠铺、裁缝店、酒馆和面包房升级款式相同。"; }
+		{ String _name = "NMTCornerHouseM1F1A";					String _text = "中世纪转角住宅一楼（A型）"; }
+		{ String _name = "NMTCornerHouseM1F1ALwr";					String _text = "中世纪转角住宅一楼（A型）"; }
+		{ String _name = "NMTCornerHouseM1F1ATip";					String _text = "中世纪转角住宅一楼（A型）。警告：与铁匠铺、裁缝店、酒馆和面包房升级款式相同。"; }
 
-		{ String _name = "NMTCornerHouseM1F1B";					String _text = "中世纪转角住宅一楼"; }
-		{ String _name = "NMTCornerHouseM1F1BLwr";					String _text = "中世纪转角住宅一楼"; }
-		{ String _name = "NMTCornerHouseM1F1BTip";					String _text = "中世纪转角住宅一楼。警告：与铁匠铺、裁缝店、酒馆和面包房升级款式相同。"; }
+		{ String _name = "NMTCornerHouseM1F1B";					String _text = "中世纪转角住宅一楼（B型）"; }
+		{ String _name = "NMTCornerHouseM1F1BLwr";					String _text = "中世纪转角住宅一楼（B型）"; }
+		{ String _name = "NMTCornerHouseM1F1BTip";					String _text = "中世纪转角住宅一楼（B型）。警告：与铁匠铺、裁缝店、酒馆和面包房升级款式相同。"; }
 
-		{ String _name = "NMTCornerHouseM1F1C";					String _text = "中世纪转角住宅一楼"; }
-		{ String _name = "NMTCornerHouseM1F1CLwr";					String _text = "中世纪转角住宅一楼"; }
-		{ String _name = "NMTCornerHouseM1F1CTip";					String _text = "中世纪转角住宅一楼。警告：与铁匠铺、裁缝店、酒馆和面包房升级款式相同。"; }
+		{ String _name = "NMTCornerHouseM1F1C";					String _text = "中世纪转角住宅一楼（C型）"; }
+		{ String _name = "NMTCornerHouseM1F1CLwr";					String _text = "中世纪转角住宅一楼（C型）"; }
+		{ String _name = "NMTCornerHouseM1F1CTip";					String _text = "中世纪转角住宅一楼（C型）。警告：与铁匠铺、裁缝店、酒馆和面包房升级款式相同。"; }
 
-		{ String _name = "NMTCornerHouseM1F1D";					String _text = "中世纪转角住宅一楼"; }
-		{ String _name = "NMTCornerHouseM1F1DLwr";					String _text = "中世纪转角住宅一楼"; }
-		{ String _name = "NMTCornerHouseM1F1DTip";					String _text = "中世纪转角住宅一楼。警告：与铁匠铺、裁缝店、酒馆和面包房升级款式相同。"; }
+		{ String _name = "NMTCornerHouseM1F1D";					String _text = "中世纪转角住宅一楼（D型）"; }
+		{ String _name = "NMTCornerHouseM1F1DLwr";					String _text = "中世纪转角住宅一楼（D型）"; }
+		{ String _name = "NMTCornerHouseM1F1DTip";					String _text = "中世纪转角住宅一楼（D型）。警告：与铁匠铺、裁缝店、酒馆和面包房升级款式相同。"; }
 
-		{ String _name = "NMTCornerHouseM1F1E";					String _text = "中世纪转角住宅一楼"; }
-		{ String _name = "NMTCornerHouseM1F1ELwr";					String _text = "中世纪转角住宅一楼"; }
-		{ String _name = "NMTCornerHouseM1F1ETip";					String _text = "中世纪转角住宅一楼。警告：与铁匠铺、裁缝店、酒馆和面包房升级款式相同。"; }
+		{ String _name = "NMTCornerHouseM1F1E";					String _text = "中世纪转角住宅一楼（E型）"; }
+		{ String _name = "NMTCornerHouseM1F1ELwr";					String _text = "中世纪转角住宅一楼（E型）"; }
+		{ String _name = "NMTCornerHouseM1F1ETip";					String _text = "中世纪转角住宅一楼（E型）。警告：与铁匠铺、裁缝店、酒馆和面包房升级款式相同。"; }
 
 		{ String _name = "NMTCornerHouseM1F2";					String _text = "中世纪转角住宅二楼"; }
 		{ String _name = "NMTCornerHouseM1F2Lwr";					String _text = "中世纪转角住宅二楼"; }
 		{ String _name = "NMTCornerHouseM1F2Tip";					String _text = "中世纪转角住宅二楼。警告：仅可建于铁匠铺、裁缝店、酒馆和面包房升级款式之上。"; }
 
-		{ String _name = "NMTCornerHouseM1F2A";					String _text = "中世纪转角住宅二楼"; }
-		{ String _name = "NMTCornerHouseM1F2ALwr";					String _text = "中世纪转角住宅二楼"; }
-		{ String _name = "NMTCornerHouseM1F2ATip";					String _text = "中世纪转角住宅二楼。警告：仅可建于铁匠铺、裁缝店、酒馆和面包房升级款式之上。"; }
+		{ String _name = "NMTCornerHouseM1F2A";					String _text = "中世纪转角住宅二楼（A型）"; }
+		{ String _name = "NMTCornerHouseM1F2ALwr";					String _text = "中世纪转角住宅二楼（A型）"; }
+		{ String _name = "NMTCornerHouseM1F2ATip";					String _text = "中世纪转角住宅二楼（A型）。警告：仅可建于铁匠铺、裁缝店、酒馆和面包房升级款式之上。"; }
 
-		{ String _name = "NMTCornerHouseM1F2B";					String _text = "中世纪转角住宅二楼"; }
-		{ String _name = "NMTCornerHouseM1F2BLwr";					String _text = "中世纪转角住宅二楼"; }
-		{ String _name = "NMTCornerHouseM1F2BTip";					String _text = "中世纪转角住宅二楼。警告：仅可建于铁匠铺、裁缝店、酒馆和面包房升级款式之上。"; }
+		{ String _name = "NMTCornerHouseM1F2B";					String _text = "中世纪转角住宅二楼（B型）"; }
+		{ String _name = "NMTCornerHouseM1F2BLwr";					String _text = "中世纪转角住宅二楼（B型）"; }
+		{ String _name = "NMTCornerHouseM1F2BTip";					String _text = "中世纪转角住宅二楼（B型）。警告：仅可建于铁匠铺、裁缝店、酒馆和面包房升级款式之上。"; }
 
-		{ String _name = "NMTCornerHouseM1F2C";					String _text = "中世纪转角住宅二楼"; }
-		{ String _name = "NMTCornerHouseM1F2CLwr";					String _text = "中世纪转角住宅二楼"; }
-		{ String _name = "NMTCornerHouseM1F2CTip";					String _text = "中世纪转角住宅二楼。警告：仅可建于铁匠铺、裁缝店、酒馆和面包房升级款式之上。"; }
+		{ String _name = "NMTCornerHouseM1F2C";					String _text = "中世纪转角住宅二楼（C型）"; }
+		{ String _name = "NMTCornerHouseM1F2CLwr";					String _text = "中世纪转角住宅二楼（C型）"; }
+		{ String _name = "NMTCornerHouseM1F2CTip";					String _text = "中世纪转角住宅二楼（C型）。警告：仅可建于铁匠铺、裁缝店、酒馆和面包房升级款式之上。"; }
 
-		{ String _name = "NMTCornerHouseM1F2D";					String _text = "中世纪转角住宅二楼"; }
-		{ String _name = "NMTCornerHouseM1F2DLwr";					String _text = "中世纪转角住宅二楼"; }
-		{ String _name = "NMTCornerHouseM1F2DTip";					String _text = "中世纪转角住宅二楼。警告：仅可建于铁匠铺、裁缝店、酒馆和面包房升级款式之上。"; }
+		{ String _name = "NMTCornerHouseM1F2D";					String _text = "中世纪转角住宅二楼（D型）"; }
+		{ String _name = "NMTCornerHouseM1F2DLwr";					String _text = "中世纪转角住宅二楼（D型）"; }
+		{ String _name = "NMTCornerHouseM1F2DTip";					String _text = "中世纪转角住宅二楼（D型）。警告：仅可建于铁匠铺、裁缝店、酒馆和面包房升级款式之上。"; }
 
-		{ String _name = "NMTCornerHouseM1F2E";					String _text = "中世纪转角住宅二楼"; }
-		{ String _name = "NMTCornerHouseM1F2ELwr";					String _text = "中世纪转角住宅二楼"; }
-		{ String _name = "NMTCornerHouseM1F2ETip";					String _text = "中世纪转角住宅二楼。警告：仅可建于铁匠铺、裁缝店、酒馆和面包房升级款式之上。"; }
+		{ String _name = "NMTCornerHouseM1F2E";					String _text = "中世纪转角住宅二楼（E型）"; }
+		{ String _name = "NMTCornerHouseM1F2ELwr";					String _text = "中世纪转角住宅二楼（E型）"; }
+		{ String _name = "NMTCornerHouseM1F2ETip";					String _text = "中世纪转角住宅二楼（E型）。警告：仅可建于铁匠铺、裁缝店、酒馆和面包房升级款式之上。"; }
 
 		{ String _name = "NMTCornerHouseM1F3";					String _text = "中世纪转角住宅三楼"; }
 		{ String _name = "NMTCornerHouseM1F3Lwr";					String _text = "中世纪转角住宅三楼"; }
 		{ String _name = "NMTCornerHouseM1F3Tip";					String _text = "中世纪转角住宅三楼。警告：仅可建于铁匠铺、裁缝店、酒馆和面包房升级款式之上。"; }
 
-		{ String _name = "NMTCornerHouseM1F3A";					String _text = "中世纪转角住宅三楼"; }
-		{ String _name = "NMTCornerHouseM1F3ALwr";					String _text = "中世纪转角住宅三楼"; }
-		{ String _name = "NMTCornerHouseM1F3ATip";					String _text = "中世纪转角住宅三楼。警告：仅可建于铁匠铺、裁缝店、酒馆和面包房升级款式之上。"; }
+		{ String _name = "NMTCornerHouseM1F3A";					String _text = "中世纪转角住宅三楼（A型）"; }
+		{ String _name = "NMTCornerHouseM1F3ALwr";					String _text = "中世纪转角住宅三楼（A型）"; }
+		{ String _name = "NMTCornerHouseM1F3ATip";					String _text = "中世纪转角住宅三楼（A型）。警告：仅可建于铁匠铺、裁缝店、酒馆和面包房升级款式之上。"; }
 
-		{ String _name = "NMTCornerHouseM1F3B";					String _text = "中世纪转角住宅三楼"; }
-		{ String _name = "NMTCornerHouseM1F3BLwr";					String _text = "中世纪转角住宅三楼"; }
-		{ String _name = "NMTCornerHouseM1F3BTip";					String _text = "中世纪转角住宅三楼。警告：仅可建于铁匠铺、裁缝店、酒馆和面包房升级款式之上。"; }
+		{ String _name = "NMTCornerHouseM1F3B";					String _text = "中世纪转角住宅三楼（B型）"; }
+		{ String _name = "NMTCornerHouseM1F3BLwr";					String _text = "中世纪转角住宅三楼（B型）"; }
+		{ String _name = "NMTCornerHouseM1F3BTip";					String _text = "中世纪转角住宅三楼（B型）。警告：仅可建于铁匠铺、裁缝店、酒馆和面包房升级款式之上。"; }
 
-		{ String _name = "NMTCornerHouseM1F3C";					String _text = "中世纪转角住宅三楼"; }
-		{ String _name = "NMTCornerHouseM1F3CLwr";					String _text = "中世纪转角住宅三楼"; }
-		{ String _name = "NMTCornerHouseM1F3CTip";					String _text = "中世纪转角住宅三楼。警告：仅可建于铁匠铺、裁缝店、酒馆和面包房升级款式之上。"; }
+		{ String _name = "NMTCornerHouseM1F3C";					String _text = "中世纪转角住宅三楼（C型）"; }
+		{ String _name = "NMTCornerHouseM1F3CLwr";					String _text = "中世纪转角住宅三楼（C型）"; }
+		{ String _name = "NMTCornerHouseM1F3CTip";					String _text = "中世纪转角住宅三楼（C型）。警告：仅可建于铁匠铺、裁缝店、酒馆和面包房升级款式之上。"; }
 
-		{ String _name = "NMTCornerHouseM1F3D";					String _text = "中世纪转角住宅三楼"; }
-		{ String _name = "NMTCornerHouseM1F3DLwr";					String _text = "中世纪转角住宅三楼"; }
-		{ String _name = "NMTCornerHouseM1F3DTip";					String _text = "中世纪转角住宅三楼。警告：仅可建于铁匠铺、裁缝店、酒馆和面包房升级款式之上。"; }
+		{ String _name = "NMTCornerHouseM1F3D";					String _text = "中世纪转角住宅三楼（D型）"; }
+		{ String _name = "NMTCornerHouseM1F3DLwr";					String _text = "中世纪转角住宅三楼（D型）"; }
+		{ String _name = "NMTCornerHouseM1F3DTip";					String _text = "中世纪转角住宅三楼（D型）。警告：仅可建于铁匠铺、裁缝店、酒馆和面包房升级款式之上。"; }
 
-		{ String _name = "NMTCornerHouseM1F3E";					String _text = "中世纪转角住宅三楼"; }
-		{ String _name = "NMTCornerHouseM1F3ELwr";					String _text = "中世纪转角住宅三楼"; }
-		{ String _name = "NMTCornerHouseM1F3ETip";					String _text = "中世纪转角住宅三楼。警告：仅可建于铁匠铺、裁缝店、酒馆和面包房升级款式之上。"; }
+		{ String _name = "NMTCornerHouseM1F3E";					String _text = "中世纪转角住宅三楼（E型）"; }
+		{ String _name = "NMTCornerHouseM1F3ELwr";					String _text = "中世纪转角住宅三楼（E型）"; }
+		{ String _name = "NMTCornerHouseM1F3ETip";					String _text = "中世纪转角住宅三楼（E型）。警告：仅可建于铁匠铺、裁缝店、酒馆和面包房升级款式之上。"; }
 
 		{ String _name = "NMTCornerHouseM2F1";					String _text = "中世纪转角住宅一楼"; }
 		{ String _name = "NMTCornerHouseM2F1Lwr";					String _text = "中世纪转角住宅一楼"; }
 		{ String _name = "NMTCornerHouseM2F1Tip";					String _text = "中世纪转角住宅一楼。警告：与考古中心、陶器坊和旅舍升级款式相同。"; }
 
-		{ String _name = "NMTCornerHouseM2F1A";					String _text = "中世纪转角住宅一楼"; }
-		{ String _name = "NMTCornerHouseM2F1ALwr";					String _text = "中世纪转角住宅一楼"; }
-		{ String _name = "NMTCornerHouseM2F1ATip";					String _text = "中世纪转角住宅一楼。警告：与考古中心、陶器坊和旅舍升级款式相同。"; }
+		{ String _name = "NMTCornerHouseM2F1A";					String _text = "中世纪转角住宅一楼（A型）"; }
+		{ String _name = "NMTCornerHouseM2F1ALwr";					String _text = "中世纪转角住宅一楼（A型）"; }
+		{ String _name = "NMTCornerHouseM2F1ATip";					String _text = "中世纪转角住宅一楼（A型）。警告：与考古中心、陶器坊和旅舍升级款式相同。"; }
 
-		{ String _name = "NMTCornerHouseM2F1B";					String _text = "中世纪转角住宅一楼"; }
-		{ String _name = "NMTCornerHouseM2F1BLwr";					String _text = "中世纪转角住宅一楼"; }
-		{ String _name = "NMTCornerHouseM2F1BTip";					String _text = "中世纪转角住宅一楼。警告：与考古中心、陶器坊和旅舍升级款式相同。"; }
+		{ String _name = "NMTCornerHouseM2F1B";					String _text = "中世纪转角住宅一楼（B型）"; }
+		{ String _name = "NMTCornerHouseM2F1BLwr";					String _text = "中世纪转角住宅一楼（B型）"; }
+		{ String _name = "NMTCornerHouseM2F1BTip";					String _text = "中世纪转角住宅一楼（B型）。警告：与考古中心、陶器坊和旅舍升级款式相同。"; }
 
-		{ String _name = "NMTCornerHouseM2F1C";					String _text = "中世纪转角住宅一楼"; }
-		{ String _name = "NMTCornerHouseM2F1CLwr";					String _text = "中世纪转角住宅一楼"; }
-		{ String _name = "NMTCornerHouseM2F1CTip";					String _text = "中世纪转角住宅一楼。警告：与考古中心、陶器坊和旅舍升级款式相同。"; }
+		{ String _name = "NMTCornerHouseM2F1C";					String _text = "中世纪转角住宅一楼（C型）"; }
+		{ String _name = "NMTCornerHouseM2F1CLwr";					String _text = "中世纪转角住宅一楼（C型）"; }
+		{ String _name = "NMTCornerHouseM2F1CTip";					String _text = "中世纪转角住宅一楼（C型）。警告：与考古中心、陶器坊和旅舍升级款式相同。"; }
 
-		{ String _name = "NMTCornerHouseM2F1D";					String _text = "中世纪转角住宅一楼"; }
-		{ String _name = "NMTCornerHouseM2F1DLwr";					String _text = "中世纪转角住宅一楼"; }
-		{ String _name = "NMTCornerHouseM2F1DTip";					String _text = "中世纪转角住宅一楼。警告：与考古中心、陶器坊和旅舍升级款式相同。"; }
+		{ String _name = "NMTCornerHouseM2F1D";					String _text = "中世纪转角住宅一楼（D型）"; }
+		{ String _name = "NMTCornerHouseM2F1DLwr";					String _text = "中世纪转角住宅一楼（D型）"; }
+		{ String _name = "NMTCornerHouseM2F1DTip";					String _text = "中世纪转角住宅一楼（D型）。警告：与考古中心、陶器坊和旅舍升级款式相同。"; }
 
-		{ String _name = "NMTCornerHouseM2F1E";					String _text = "中世纪转角住宅一楼"; }
-		{ String _name = "NMTCornerHouseM2F1ELwr";					String _text = "中世纪转角住宅一楼"; }
-		{ String _name = "NMTCornerHouseM2F1ETip";					String _text = "中世纪转角住宅一楼。警告：与考古中心、陶器坊和旅舍升级款式相同。"; }
+		{ String _name = "NMTCornerHouseM2F1E";					String _text = "中世纪转角住宅一楼（E型）"; }
+		{ String _name = "NMTCornerHouseM2F1ELwr";					String _text = "中世纪转角住宅一楼（E型）"; }
+		{ String _name = "NMTCornerHouseM2F1ETip";					String _text = "中世纪转角住宅一楼（E型）。警告：与考古中心、陶器坊和旅舍升级款式相同。"; }
 
 		{ String _name = "NMTCornerHouseM2F2";					String _text = "中世纪转角住宅二楼"; }
 		{ String _name = "NMTCornerHouseM2F2Lwr";					String _text = "中世纪转角住宅二楼"; }
 		{ String _name = "NMTCornerHouseM2F2Tip";					String _text = "中世纪转角住宅二楼。警告：仅可建于考古中心、陶器坊和旅舍升级款式之上。"; }
 
-		{ String _name = "NMTCornerHouseM2F2A";					String _text = "中世纪转角住宅二楼"; }
-		{ String _name = "NMTCornerHouseM2F2ALwr";					String _text = "中世纪转角住宅二楼"; }
-		{ String _name = "NMTCornerHouseM2F2ATip";					String _text = "中世纪转角住宅二楼。警告：仅可建于考古中心、陶器坊和旅舍升级款式之上。"; }
+		{ String _name = "NMTCornerHouseM2F2A";					String _text = "中世纪转角住宅二楼（A型）"; }
+		{ String _name = "NMTCornerHouseM2F2ALwr";					String _text = "中世纪转角住宅二楼（A型）"; }
+		{ String _name = "NMTCornerHouseM2F2ATip";					String _text = "中世纪转角住宅二楼（A型）。警告：仅可建于考古中心、陶器坊和旅舍升级款式之上。"; }
 
-		{ String _name = "NMTCornerHouseM2F2B";					String _text = "中世纪转角住宅二楼"; }
-		{ String _name = "NMTCornerHouseM2F2BLwr";					String _text = "中世纪转角住宅二楼"; }
-		{ String _name = "NMTCornerHouseM2F2BTip";					String _text = "中世纪转角住宅二楼。警告：仅可建于考古中心、陶器坊和旅舍升级款式之上。"; }
+		{ String _name = "NMTCornerHouseM2F2B";					String _text = "中世纪转角住宅二楼（B型）"; }
+		{ String _name = "NMTCornerHouseM2F2BLwr";					String _text = "中世纪转角住宅二楼（B型）"; }
+		{ String _name = "NMTCornerHouseM2F2BTip";					String _text = "中世纪转角住宅二楼（B型）。警告：仅可建于考古中心、陶器坊和旅舍升级款式之上。"; }
 
-		{ String _name = "NMTCornerHouseM2F2C";					String _text = "中世纪转角住宅二楼"; }
-		{ String _name = "NMTCornerHouseM2F2CLwr";					String _text = "中世纪转角住宅二楼"; }
-		{ String _name = "NMTCornerHouseM2F2CTip";					String _text = "中世纪转角住宅二楼。警告：仅可建于考古中心、陶器坊和旅舍升级款式之上。"; }
+		{ String _name = "NMTCornerHouseM2F2C";					String _text = "中世纪转角住宅二楼（C型）"; }
+		{ String _name = "NMTCornerHouseM2F2CLwr";					String _text = "中世纪转角住宅二楼（C型）"; }
+		{ String _name = "NMTCornerHouseM2F2CTip";					String _text = "中世纪转角住宅二楼（C型）。警告：仅可建于考古中心、陶器坊和旅舍升级款式之上。"; }
 
-		{ String _name = "NMTCornerHouseM2F2D";					String _text = "中世纪转角住宅二楼"; }
-		{ String _name = "NMTCornerHouseM2F2DLwr";					String _text = "中世纪转角住宅二楼"; }
-		{ String _name = "NMTCornerHouseM2F2DTip";					String _text = "中世纪转角住宅二楼。警告：仅可建于考古中心、陶器坊和旅舍升级款式之上。"; }
+		{ String _name = "NMTCornerHouseM2F2D";					String _text = "中世纪转角住宅二楼（D型）"; }
+		{ String _name = "NMTCornerHouseM2F2DLwr";					String _text = "中世纪转角住宅二楼（D型）"; }
+		{ String _name = "NMTCornerHouseM2F2DTip";					String _text = "中世纪转角住宅二楼（D型）。警告：仅可建于考古中心、陶器坊和旅舍升级款式之上。"; }
 
-		{ String _name = "NMTCornerHouseM2F2E";					String _text = "中世纪转角住宅二楼"; }
-		{ String _name = "NMTCornerHouseM2F2ELwr";					String _text = "中世纪转角住宅二楼"; }
-		{ String _name = "NMTCornerHouseM2F2ETip";					String _text = "中世纪转角住宅二楼。警告：仅可建于考古中心、陶器坊和旅舍升级款式之上。"; }
+		{ String _name = "NMTCornerHouseM2F2E";					String _text = "中世纪转角住宅二楼（E型）"; }
+		{ String _name = "NMTCornerHouseM2F2ELwr";					String _text = "中世纪转角住宅二楼（E型）"; }
+		{ String _name = "NMTCornerHouseM2F2ETip";					String _text = "中世纪转角住宅二楼（E型）。警告：仅可建于考古中心、陶器坊和旅舍升级款式之上。"; }
 
 		{ String _name = "NMTCornerHouseM2F3";					String _text = "中世纪转角住宅三楼"; }
 		{ String _name = "NMTCornerHouseM2F3Lwr";					String _text = "中世纪转角住宅三楼"; }
 		{ String _name = "NMTCornerHouseM2F3Tip";					String _text = "中世纪转角住宅三楼。警告：仅可建于考古中心、陶器坊和旅舍升级款式之上。"; }
 
-		{ String _name = "NMTCornerHouseM2F3A";					String _text = "中世纪转角住宅三楼"; }
-		{ String _name = "NMTCornerHouseM2F3ALwr";					String _text = "中世纪转角住宅三楼"; }
-		{ String _name = "NMTCornerHouseM2F3ATip";					String _text = "中世纪转角住宅三楼。警告：仅可建于考古中心、陶器坊和旅舍升级款式之上。"; }
+		{ String _name = "NMTCornerHouseM2F3A";					String _text = "中世纪转角住宅三楼（A型）"; }
+		{ String _name = "NMTCornerHouseM2F3ALwr";					String _text = "中世纪转角住宅三楼（A型）"; }
+		{ String _name = "NMTCornerHouseM2F3ATip";					String _text = "中世纪转角住宅三楼（A型）。警告：仅可建于考古中心、陶器坊和旅舍升级款式之上。"; }
 
-		{ String _name = "NMTCornerHouseM2F3B";					String _text = "中世纪转角住宅三楼"; }
-		{ String _name = "NMTCornerHouseM2F3BLwr";					String _text = "中世纪转角住宅三楼"; }
-		{ String _name = "NMTCornerHouseM2F3BTip";					String _text = "中世纪转角住宅三楼。警告：仅可建于考古中心、陶器坊和旅舍升级款式之上。"; }
+		{ String _name = "NMTCornerHouseM2F3B";					String _text = "中世纪转角住宅三楼（B型）"; }
+		{ String _name = "NMTCornerHouseM2F3BLwr";					String _text = "中世纪转角住宅三楼（B型）"; }
+		{ String _name = "NMTCornerHouseM2F3BTip";					String _text = "中世纪转角住宅三楼（B型）。警告：仅可建于考古中心、陶器坊和旅舍升级款式之上。"; }
 
-		{ String _name = "NMTCornerHouseM2F3C";					String _text = "中世纪转角住宅三楼"; }
-		{ String _name = "NMTCornerHouseM2F3CLwr";					String _text = "中世纪转角住宅三楼"; }
-		{ String _name = "NMTCornerHouseM2F3CTip";					String _text = "中世纪转角住宅三楼。警告：仅可建于考古中心、陶器坊和旅舍升级款式之上。"; }
+		{ String _name = "NMTCornerHouseM2F3C";					String _text = "中世纪转角住宅三楼（C型）"; }
+		{ String _name = "NMTCornerHouseM2F3CLwr";					String _text = "中世纪转角住宅三楼（C型）"; }
+		{ String _name = "NMTCornerHouseM2F3CTip";					String _text = "中世纪转角住宅三楼（C型）。警告：仅可建于考古中心、陶器坊和旅舍升级款式之上。"; }
 
-		{ String _name = "NMTCornerHouseM2F3D";					String _text = "中世纪转角住宅三楼"; }
-		{ String _name = "NMTCornerHouseM2F3DLwr";					String _text = "中世纪转角住宅三楼"; }
-		{ String _name = "NMTCornerHouseM2F3DTip";					String _text = "中世纪转角住宅三楼。警告：仅可建于考古中心、陶器坊和旅舍升级款式之上。"; }
+		{ String _name = "NMTCornerHouseM2F3D";					String _text = "中世纪转角住宅三楼（D型）"; }
+		{ String _name = "NMTCornerHouseM2F3DLwr";					String _text = "中世纪转角住宅三楼（D型）"; }
+		{ String _name = "NMTCornerHouseM2F3DTip";					String _text = "中世纪转角住宅三楼（D型）。警告：仅可建于考古中心、陶器坊和旅舍升级款式之上。"; }
 
-		{ String _name = "NMTCornerHouseM2F3E";					String _text = "中世纪转角住宅三楼"; }
-		{ String _name = "NMTCornerHouseM2F3ELwr";					String _text = "中世纪转角住宅三楼"; }
-		{ String _name = "NMTCornerHouseM2F3ETip";					String _text = "中世纪转角住宅三楼。警告：仅可建于考古中心、陶器坊和旅舍升级款式之上。"; }
+		{ String _name = "NMTCornerHouseM2F3E";					String _text = "中世纪转角住宅三楼（E型）"; }
+		{ String _name = "NMTCornerHouseM2F3ELwr";					String _text = "中世纪转角住宅三楼（E型）"; }
+		{ String _name = "NMTCornerHouseM2F3ETip";					String _text = "中世纪转角住宅三楼（E型）。警告：仅可建于考古中心、陶器坊和旅舍升级款式之上。"; }
 
 
 		{ String _name = "NewMedievalUpgradeHostelTip";					String _text = "升级您的中世纪旅舍，获得更美观的外观、更好的保暖效果，并容纳更多家庭。"; }

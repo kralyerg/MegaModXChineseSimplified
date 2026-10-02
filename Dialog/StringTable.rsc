@@ -1,579 +1,579 @@
-StringTable professions
-{
-	Entry _strings
-	[
-		{	String _name = "ProfessionLaborer";		String _text = "劳工";	}
-		{	String _name = "ProfessionLaborerTip";		String _text = "劳工负责简单的工作，例如清理区域和将产出的物资搬运至仓库。";	}
-		{	String _name = "ProfessionLaborerDeath";	String _text = "因心脏衰弱而去世。";	}
-
-		{	String _name = "ProfessionBuilder";		String _text = "建筑工人";	}
-		{	String _name = "ProfessionBuilderTip";		String _text = "建筑工人负责建造建筑、道路与桥梁。";	}
-		{	String _name = "ProfessionBuilderDeath";	String _text = "从梯子上摔落身亡。";	}
-
-		{	String _name = "ProfessionFarmer";		String _text = "农夫";	}
-		{	String _name = "ProfessionFarmerTip";		String _text = "农民负责照料农田和果园。";	}
-		{	String _name = "ProfessionFarmerDeath";		String _text = "意外身亡。";	}
-
-		{	String _name = "ProfessionHerdsman";		String _text = "牧民";	}	
-		{	String _name = "ProfessionHerdsmanTip";		String _text = "牧民负责照料牧场中的牲畜。";	}	
-		{	String _name = "ProfessionHerdsmanDeath";	String _text = "被牲畜踩死。";	}	
-
-		{	String _name = "ProfessionGatherer";		String _text = "采集者"; }
-		{	String _name = "ProfessionGathererTip";		String _text = "采集者在森林中搜寻根茎和浆果。";	}			
-		{	String _name = "ProfessionGathererDeath";	String _text = "误食毒浆果身亡。"; }
-
-		{	String _name = "ProfessionFisherman";		String _text = "渔夫";	}	
-		{	String _name = "ProfessionFishermanTip";	String _text = "渔夫捕鱼以获取食物。";	}
-		{	String _name = "ProfessionFishermanDeath";	String _text = "溺水身亡。";	}	
-					
-		{	String _name = "ProfessionHunter";		String _text = "猎人";	}
-		{	String _name = "ProfessionHunterTip";		String _text = "猎人在森林中猎捕野味以获取食物。";	}						
-		{	String _name = "ProfessionHunterDeath";		String _text = "被野猪撞死。";	}
-
-		{	String _name = "ProfessionCutter";		String _text = "伐木工";	}
-		{	String _name = "ProfessionCutterTip";		String _text = "伐木工把原木劈成柴火。";	}
-		{	String _name = "ProfessionCutterDeath";		String _text = "被斧头意外砍死。";	}
-
-		{	String _name = "ProfessionForester";		String _text = "护林员";	}
-		{	String _name = "ProfessionForesterTip";		String _text = "护林员种植树苗并砍伐成熟的树木。";	}
-		{	String _name = "ProfessionForesterDeath";	String _text = "被倒下的树木砸死。";	}
-
-		{	String _name = "ProfessionToolMaker";		String _text = "铁匠";	}	
-		{	String _name = "ProfessionToolMakerTip";	String _text = "铁匠用木材和铁矿打造新工具。";	}	
-		{	String _name = "ProfessionToolMakerDeath";	String _text = "在锻造炉中被烧伤身亡。";	}	
-
-		{	String _name = "ProfessionHerbalist";		String _text = "草药师";	}
-		{	String _name = "ProfessionHerbalistTip";	String _text = "草药师采集草药并治疗轻微疾病。";	}
-		{	String _name = "ProfessionHerbalistDeath";	String _text = "误食毒蘑菇身亡。";	}
-
-		{	String _name = "ProfessionBrewer";		String _text = "酿酒师";	}
-		{	String _name = "ProfessionBrewerTip";		String _text = "酿酒师经营酒馆并酿造酒水。";	}
-		{	String _name = "ProfessionBrewerDeath";		String _text = "喝了变质的酒身亡。";	}
-			
-		{	String _name = "ProfessionTailor";		String _text = "裁缝"; }
-		{	String _name = "ProfessionTailorTip";		String _text = "裁缝制作保暖衣物以抵御寒冬。";	}
-		{	String _name = "ProfessionTailorDeath";		String _text = "被谋杀了！"; }
-
-		{	String _name = "ProfessionVendor";		String _text = "商贩";	}
-		{	String _name = "ProfessionVendorTip";		String _text = "商贩在市场中收集并分发货物。";	}
-		{	String _name = "ProfessionVendorDeath";		String _text = "被刺死。";	}
-
-		{	String _name = "ProfessionTrader";		String _text = "贸易商";	}
-		{	String _name = "ProfessionTraderTip";		String _text = "贸易商在贸易站收集并分发货物。";	}
-		{	String _name = "ProfessionTraderDeath";		String _text = "自杀身亡。";	}
-
-		{	String _name = "ProfessionMiner";		String _text = "矿工";	}
-		{	String _name = "ProfessionMinerTip";		String _text = "矿工从地下挖掘铁矿石。";	}
-		{	String _name = "ProfessionMinerDeath";		String _text = "被坍塌事故压死。";	}
-
-		{	String _name = "ProfessionStoneCutter"	;	String _text = "石匠"; }
-		{	String _name = "ProfessionStoneCutterTip";	String _text = "石匠从地下采石。";	}
-		{	String _name = "ProfessionStoneCutterDeath";	String _text = "被岩石压死"; }
-
-		{	String _name = "ProfessionTeacher";		String _text = "教师"; }
-		{	String _name = "ProfessionTeacherTip";		String _text = "教师教育市民，使其能以同样的劳动产出更多资源。";	}
-		{	String _name = "ProfessionTeacherDeath";	String _text = "精神失常并被放逐。"; }
-
-		{	String _name = "ProfessionDoctor";			String _text = "医师"; }
-		{	String _name = "ProfessionDoctorTip";		String _text = "医师治疗疾病，有助于提升市民的健康状况。";	}
-		{	String _name = "ProfessionDoctorDeath";		String _text = "服错药身亡！"; }
-
-		{	String _name = "ProfessionPriest";			String _text = "神职人员"; }
-		{	String _name = "ProfessionPriestTip";		String _text = "神职人员维护礼拜堂，为市民带来快乐。";	}
-		{	String _name = "ProfessionPriestDeath";		String _text = "意外身亡！"; }
-
-		{	String _name = "ProfessionChild";	String _text = "儿童";	}
-		{	String _name = "ProfessionStudent";	String _text = "学生";	}
-	]
-}
-
-StringTable graphTypes
-{
-	Entry _strings
-	[ 
-		{ String _name = "Type0";			String _text = "人口"; }
-		{ String _name = "Type1";			String _text = "市民"; }
-		{ String _name = "Type2";			String _text = "食物"; }
-		{ String _name = "Type3";			String _text = "原木"; }
-		{ String _name = "Type4";			String _text = "石料"; }
-		{ String _name = "Type5";			String _text = "铁"; }
-		{ String _name = "Type6";			String _text = "柴火"; }
-		{ String _name = "Type7";			String _text = "矿物"; }
-		{ String _name = "Type8";			String _text = "工具"; }
-		{ String _name = "Type9";			String _text = "健康"; }
-		{ String _name = "Type10";			String _text = "衣物"; }
-		{ String _name = "Type11";			String _text = "奢侈品"; }
-		{ String _name = "Type12";			String _text = "纺织品"; }
-
-		{ String _name = "Type13";			String _text = "工艺品"; }
-		{ String _name = "Type14";			String _text = "锻造品"; }
-		{ String _name = "Type15";			String _text = "布料"; }
-		{ String _name = "Type16";			String _text = "工业品"; }
-		{ String _name = "Type17";			String _text = "原材料"; }
-		{ String _name = "Type18";			String _text = "建筑材料"; }
-		{ String _name = "Type19";			String _text = "贵重品"; }
-		{ String _name = "Type20";			String _text = "杂项"; }
-		{ String _name = "Type21";			String _text = "预留"; }
-		{ String _name = "Type22";			String _text = "消耗品"; }
-	]
-}
-
-StringTable gameDialogs
-{
-	Entry _strings
-	[
-		{ String _name = "NomadsNone";			String _text = "目前没有流民请求成为市民。"; }
-		{ String _name = "NomadsRequest";		String _text = "现有 @0 名流民请求加入。是否允许他们成为 @1 的市民？"; }
-		{ String _name = "AllowNomad";			String _text = "允许"; }
-		{ String _name = "DenyNomad";			String _text = "拒绝"; }
-		{ String _name = "DenyNomadTip";		String _text = "让流民离开。"; }
-		{ String _name = "AllowNomadTip";		String _text = "授予流民市民身份。"; }
-	
-		{ String _name = "DestroyRemove";		String _text = "此建筑正在被拆除。"; }
-		{ String _name = "DestroyUpgrade";		String _text = "此建筑正在升级。"; }
-		{ String _name = "DestroyDamage";		String _text = "此建筑已严重受损。"; }
-		{ String _name = "DestroyFixing";		String _text = "此建筑正在被替换。"; }
-		{ String _name = "DestroyReclaim";		String _text = "回收"; }
-		{ String _name = "DestroyReclaimTip";	String _text = "停止资源回收，停止拆除此建筑。"; }
-		{ String _name = "DestroyRebuild";		String _text = "重建"; }
-		{ String _name = "DestroyRebuildTip";	String _text = "拆除受损建筑并重建。"; }
-		{ String _name = "DestroyDestroy";		String _text = "拆除"; }
-		{ String _name = "DestroyDestroyTip";	String _text = "拆除受损建筑。"; }
-
-		{ String _name = "TownNameTip";			String _text = "城镇的名称"; }
-		
-		{ String _name = "Clearing";			String _text = "此区域正在清除障碍物。"; }
-		{ String _name = "PercentFull";			String _text = "@0% 已满"; }
-		{ String _name = "PercentRemove";		String _text = "@0% 仓储剩余"; }
-		{ String _name = "PercentDestroy";		String _text = "@0% 已拆除"; }
-		{ String _name = "PercentBuilt";		String _text = "@0% 已完成"; }
-		{ String _name = "PercentYield";		String _text = "@0% 产量"; }
-		{ String _name = "PercentRemaining";	String _text = "@0% 剩余"; }
-		{ String _name = "CountGathered";		String _text = "@0 / @1"; }
-		{ String _name = "CountTotal";			String _text = "共"; }
-		{ String _name = "StudentCount";		String _text = "@0 名学生"; }
-		{ String _name = "PatientCount";		String _text = "@0 名患者"; }
-		{ String _name = "ChapelCount";			String _text = "@0 名成员"; }
-		{ String _name = "Population";			String _text = "@0 / @1 / @2"; }
-		{ String _name = "GraveCount";			String _text = "@0 / @1 座坟墓"; }
-
-		{ String _name = "FollowCitizen";		String _text = "跟随"; }
-		{ String _name = "FollowCitizenTip";	String _text = "在城镇中跟随该市民。"; }
-		{ String _name = "FollowCitizenEnd";	String _text = "退出跟随模式"; }
-		{ String _name = "FollowCitizenInfo";	String _text = "@0（@1）正在"; }
-		{ String _name = "FollowCitizenInfoNameOnly"; String _text = "@0 正在"; }
-
-		{ String _name = "Labor";				String _text = "建造"; }
-		{ String _name = "ClearArea";			String _text = "清除"; }
-		{ String _name = "PauseBuildTip";		String _text = "暂停或恢复此建筑的材料收集与施工"; }
-
-		{ String _name = "CloseTip";			String _text = "关闭此窗口"; }
-		{ String _name = "PinTip";				String _text = "切换固定此窗口，使其保持打开且不再跟随选择变化。"; }
-		{ String _name = "CenterTip";			String _text = "将视角居中于所选对象。"; }
-		{ String _name = "ProductionTip";		String _text = "显示或隐藏此地点的产量统计。"; }
-
-		{ String _name = "ClearAreaTip";		String _text = "需要清除该区域内的树木、岩石及其他障碍物。"; }
-		{ String _name = "ResourceTip";			String _text = "开始施工前需要收集的资源。"; }
-		{ String _name = "LaborTip";			String _text = "使用前需要完成相应的劳动。"; }
-
-		{ String _name = "Details";				String _text = "详情"; }
-		{ String _name = "Occupants";			String _text = "居住者"; }
-		{ String _name = "Inventory";			String _text = "库存"; }
-		{ String _name = "TownInventory";		String _text = "库存"; }
-		{ String _name = "Overview";			String _text = "概览"; }
-		{ String _name = "Graphs";				String _text = "图表"; }
-		{ String _name = "Production";			String _text = "产量"; }
-		{ String _name = "Agri";				String _text = "贸易物品"; }
-		{ String _name = "Nomads";				String _text = "流民"; }
-		{ String _name = "AgriDescription";		String _text = "已获得的种子与牲畜"; }
-		
-		{ String _name = "Order";				String _text = "订单"; }
-		{ String _name = "Purchase";			String _text = "购买"; }
-		{ String _name = "MerchantName";		String _text = "@0（@1）"; }
-		{ String _name = "MerchantOrderName";	String _text = "来自 @0 的定制订单"; }
-		{ String _name = "Autobuy";				String _text = "自动购买"; }
-
-		{ String _name = "PurchasePriorityTip";	String _text = "上下移动该物品以调整购买优先级。"; }
-		{ String _name = "PurchaseCountTip";	String _text = "自动购买的物品数量。"; }
-		
-
-		{ String _name = "TimeRange";			String _text = "时间范围"; }
-		{ String _name = "Graph";				String _text = "图表"; }
-
-		{ String _name = "InventoryItem";		String _text = "物品"; }
-		{ String _name = "InventoryStored";		String _text = "数量"; }
-
-		{ String _name = "EnableWork";			String _text = "工作"; }
-		{ String _name = "EnableWorkTip";		String _text = "启用或禁用此地点的生产。"; }
-		{ String _name = "WorkerCountTip";		String _text = "在此地点工作的市民数量。点击可选中并依次切换工人。"; }
-		{ String _name = "EnableSchoolTip";		String _text = "启用或禁用此学校的教育活动。"; }
-		{ String _name = "ProfessionCountTip";	String _text = "从事此职业的工人总数。"; }
-		{ String _name = "ProfessionJobsTip";	String _text = "此职业可提供的工作岗位总数。"; }
-		{ String _name = "ProfessionGotoTip";   String _text = "选中并依次切换从事此职业的市民。"; }
-		{ String _name = "CitizenGotoTip";		String _text = "将视角聚焦于该市民。"; }
-
-		{ String _name = "EnablePriestTip";		String _text = "启用或禁用此宗教建筑的使用。"; }
-
-		{ String _name = "ForesterCut";			String _text = "砍伐"; }
-		{ String _name = "ForesterPlant";		String _text = "种植"; }
-		{ String _name = "ForesterCutTip";		String _text = "启用或禁用砍伐附近成熟树木。"; }
-		{ String _name = "ForesterPlantTip";	String _text = "启用或禁用种植新树苗。"; }
-		
-		{ String _name = "CropFieldCutTip";		String _text = "立即收获该农田。"; }
-		{ String _name = "CropFieldAutoTip";	String _text = "启用或禁用此地点的自动播种与收获。"; }
-		{ String _name = "CropFieldSelectTip";	String _text = "选择在此地点种植的作物。"; }
-
-		{ String _name = "CropFieldPlant";		String _text = "播种"; }
-		{ String _name = "CropFieldHarvest";	String _text = "收获"; }
-		{ String _name = "CropFieldAuto";		String _text = "工作"; }
-		{ String _name = "CropFieldSelect";		String _text = "选择"; }
-
-		{ String _name = "ReturnToStorage";		String _text = "运回"; }
-		{ String _name = "ReturnToStorageTip";	String _text = "启用后，工人生产的货物会被立即取走并运往仓库；未启用时，货物将留在原地，等待普通劳工来运走。"; }
-
-		{ String _name = "ProductionCurrent";	String _text = "当前"; }
-		{ String _name = "ProductionUsed";		String _text = "已使用"; }
-		{ String _name = "ProductionProduced";	String _text = "已生产"; }
-		{ String _name = "PreviousUsed";		String _text = "已使用（@0年）"; }
-		{ String _name = "PreviousProduced";	String _text = "已生产（@0年）"; }
-
-		{ String _name = "Limit";				String _text = "上限"; }
-		{ String _name = "FuelLimit";			String _text = "燃料上限"; }
-		{ String _name = "FuelLimitShort";		String _text = "燃料"; }
-		{ String _name = "FuelLimitTip";		String _text = "控制燃料的储存数量。达到此上限后将停止生产。"; }
-		{ String _name = "LogLimit";			String _text = "原木上限"; }
-		{ String _name = "LogLimitShort";		String _text = "原木"; }
-		{ String _name = "LogLimitTip";			String _text = "控制原木的储存数量。达到此上限后将停止生产。"; }
-		{ String _name = "HerbLimit";			String _text = "草药上限"; }
-		{ String _name = "HerbLimitShort";		String _text = "草药"; }
-		{ String _name = "HerbLimitTip";		String _text = "控制草药的储存数量。达到此上限后将停止生产。"; }
-		{ String _name = "ToolLimit";			String _text = "工具上限"; }
-		{ String _name = "ToolLimitShort";		String _text = "工具"; }
-		{ String _name = "ToolLimitTip";		String _text = "控制工具的储存数量。达到此上限后将停止生产。"; }
-		{ String _name = "IronLimit";			String _text = "铁矿上限"; }
-		{ String _name = "IronLimitShort";		String _text = "铁"; }
-		{ String _name = "IronLimitTip";		String _text = "控制铁矿的储存数量。达到此上限后将停止生产。"; }
-		{ String _name = "StoneLimit";			String _text = "石料上限"; }
-		{ String _name = "StoneLimitShort";		String _text = "石料"; }
-		{ String _name = "StoneLimitTip";		String _text = "控制石料的储存数量。达到此上限后将停止生产。"; }
-		{ String _name = "FoodLimit";			String _text = "食物上限"; }
-		{ String _name = "FoodLimitShort";		String _text = "食物"; }
-		{ String _name = "FoodLimitTip";		String _text = "控制食物的储存数量。达到此上限后将停止生产。"; }
-		{ String _name = "ClothesLimit";		String _text = "衣物上限"; }
-		{ String _name = "ClothesLimitShort";	String _text = "衣物"; }
-		{ String _name = "ClothesLimitTip";		String _text = "控制衣物的储存数量。达到此上限后将停止生产。"; }
-		{ String _name = "TextileLimit";		String _text = "纺织品上限"; }
-		{ String _name = "TextileLimitShort";	String _text = "纺织品"; }
-		{ String _name = "TextileLimitTip";		String _text = "控制纺织品的储存数量。达到此上限后将停止生产。"; }
-		{ String _name = "AlcoholLimit";		String _text = "奢侈品上限"; }
-		{ String _name = "AlcoholLimitShort";	String _text = "奢侈品"; }
-		{ String _name = "AlcoholLimitTip";		String _text = "控制奢侈品的储存数量。达到此上限后将停止生产。"; }
-		{ String _name = "CoalLimit";		String _text = "矿物/矿石上限"; }
-		{ String _name = "CoalLimitShort";	String _text = "矿物/矿石"; }
-		{ String _name = "CoalLimitTip";		String _text = "控制矿物与矿石的储存数量。达到此上限后将停止生产。"; }
-
-		{ String _name = "Custom0Limit";		String _text = "工艺品上限"; }
-		{ String _name = "Custom0LimitShort";	String _text = "工艺品"; }
-		{ String _name = "Custom0LimitTip";		String _text = "控制工艺品的储存数量。达到此上限后将停止生产。"; }
-		{ String _name = "Custom1Limit";		String _text = "锻造品上限"; }
-		{ String _name = "Custom1LimitShort";	String _text = "锻造品"; }
-		{ String _name = "Custom1LimitTip";		String _text = "控制锻造品的储存数量。达到此上限后将停止生产。"; }
-		{ String _name = "Custom2Limit";		String _text = "加工纺织品上限"; }
-		{ String _name = "Custom2LimitShort";	String _text = "加工纺织品"; }
-		{ String _name = "Custom2LimitTip";		String _text = "控制加工纺织品的储存数量。达到此上限后将停止生产。"; }
-		{ String _name = "Custom3Limit";		String _text = "工业燃料上限"; }
-		{ String _name = "Custom3LimitShort";		String _text = "工业燃料"; }
-		{ String _name = "Custom3LimitTip";		String _text = "控制工业燃料的储存数量。达到此上限后将停止生产。"; }
-		{ String _name = "Custom4Limit";		String _text = "原材料上限"; }
-		{ String _name = "Custom4LimitShort";	String _text = "原材料"; }
-		{ String _name = "Custom4LimitTip";		String _text = "控制原材料的储存数量。达到此上限后将停止生产。"; }
-		{ String _name = "Custom5Limit";		String _text = "建筑材料上限"; }
-		{ String _name = "Custom5LimitShort";	String _text = "建筑材料"; }
-		{ String _name = "Custom5LimitTip";		String _text = "控制建筑材料的储存数量。达到此上限后将停止生产。"; }
-		{ String _name = "Custom6Limit";		String _text = "贵重品上限"; }
-		{ String _name = "Custom6LimitShort";	String _text = "贵重品"; }
-		{ String _name = "Custom6LimitTip";		String _text = "控制贵重品的储存数量。达到此上限后将停止生产。"; }
-		{ String _name = "Custom7Limit";		String _text = "杂项上限"; }
-		{ String _name = "Custom7LimitShort";	String _text = "杂项"; }
-		{ String _name = "Custom7LimitTip";		String _text = "控制杂项物品的储存数量。达到此上限后将停止生产。"; }
-		{ String _name = "Custom8Limit";		String _text = "预留上限"; }
-		{ String _name = "Custom8LimitShort";	String _text = "预留"; }
-		{ String _name = "Custom8LimitTip";		String _text = "预留供未来使用。"; }
-		{ String _name = "Custom9Limit";		String _text = "预留上限"; }
-		{ String _name = "Custom9LimitShort";	String _text = "预留"; }
-		{ String _name = "Custom9LimitTip";		String _text = "预留供未来使用。"; }
-
-		{ String _name = "VegetableLimitShort";	String _text = "蔬菜"; }
-		{ String _name = "FruitLimitShort";		String _text = "水果"; }
-		{ String _name = "MeatLimitShort";		String _text = "肉类"; }
-		{ String _name = "GrainLimitShort";		String _text = "谷物"; }
-
-
-		{ String _name = "SoilQuality";			String _text = "土壤"; }
-		
-		{ String _name = "OrchardHarvestTip";	String _text = "立即收获该果园。"; }
-		{ String _name = "OrchardAutoTip";		String _text = "启用或禁用此地点的自动收获。"; }
-		{ String _name = "OrchardSelectTip";	String _text = "选择在此地点种植的果树类型。"; }
-		{ String _name = "OrchardCutTip";		String _text = "砍倒此果园中的所有树木。"; }
-		{ String _name = "OrchardCut";			String _text = "砍伐"; }
-
-		{ String _name = "PastureEmpty";		String _text = "清空"; }
-		{ String _name = "PastureSplit";		String _text = "分群"; }
-		{ String _name = "PastureEmptyTip";		String _text = "将此牧场中的所有牲畜移走。需要另有一处能容纳这些牲畜的牧场。"; }
-		{ String _name = "PastureSplitTip";		String _text = "将一半牲畜移至另一处牧场。需要另有一处能容纳这些牲畜的牧场。"; }
-		{ String _name = "PastureSelectTip";	String _text = "选择将饲养于此牧场的牲畜。只有牧场为空时才能进行此操作。"; }
-
-		{ String _name = "HerdSize";			String _text = "畜群规模"; }
-		{ String _name = "HerdSizeTip";			String _text = "控制牧场中饲养的牲畜数量。超出此数量的牲畜将被宰杀以获取食物。"; }
-
-		{ String _name = "Trade";				String _text = "交易"; }
-		{ String _name = "Dismiss";				String _text = "打发"; }
-		{ String _name = "DismissTip";			String _text = "如果商人没有你想购买的物品，可将其打发离开。"; }
-		{ String _name = "Total";				String _text = "总计"; }
-		{ String _name = "DesiredTradeTip";		String _text = "希望在贸易站储存的物品数量。"; }
-		{ String _name = "TradeStoredTip";		String _text = "可供交易的物品数量。"; }
-		{ String _name = "TradeSellValueTip";	String _text = "该物品的出售价值。"; }
-		{ String _name = "TradeBuyValueTip";	String _text = "该物品的购买价格。"; }
-		{ String _name = "TradeCountTip";		String _text = "要交易的物品数量。"; }
-		{ String _name = "TradeNotEnough";		String _text = "你还需再交易 @0 个单位才能完成此交易。"; }
-		{ String _name = "TradeTooMuch";		String _text = "你多支付了 @0 个单位。"; }
-		{ String _name = "TradeNoStorage";		String _text = "没有足够的空间储存此次交易中的所有物品。"; }
-
-		{ String _name = "TradeDesired";		String _text = "期望"; }
-		{ String _name = "TradeCount";			String _text = "数量"; }
-		{ String _name = "TradeItem";			String _text = "物品"; }
-		{ String _name = "TradeCost";			String _text = "花费"; }
-		{ String _name = "TradeValue";			String _text = "价值"; }
-
-		{ String _name = "WeatherTip";			String _text = "当前天气与气温。"; }
-		{ String _name = "PopulationTip";		String _text = "成人 / 学生 / 儿童 的数量。"; }
-		{ String _name = "WoodTip";				String _text = "已储存原木的数量。"; }
-		{ String _name = "StoneTip";			String _text = "已储存石料的数量。"; }
-		{ String _name = "IronTip";				String _text = "已储存铁矿的数量。"; }
-		{ String _name = "FirewoodTip";			String _text = "已储存柴火的数量。"; }
-		{ String _name = "ToolsTip";			String _text = "已储存工具的数量。"; }
-		{ String _name = "FoodTip";				String _text = "已储存食物的数量。"; }
-		{ String _name = "HerbsTip";			String _text = "已储存药品的数量。"; }
-		{ String _name = "ClothesTip";			String _text = "已储存衣物的数量。"; }
-		{ String _name = "AlcoholTip";			String _text = "已储存奢侈品的数量。"; }
-		{ String _name = "CoalTip";				String _text = "已储存工业燃料的数量。"; }
-		{ String _name = "TextileTip";			String _text = "已储存纺织品的数量。"; }
-
-		{ String _name = "Custom0Tip";			String _text = "已储存工艺品的数量。"; }
-		{ String _name = "Custom1Tip";			String _text = "已储存锻造品的数量。"; }
-		{ String _name = "Custom2Tip";			String _text = "已储存加工纺织品的数量。"; }
-		{ String _name = "Custom3Tip";			String _text = "已储存矿物与矿石的数量。"; }
-		{ String _name = "Custom4Tip";			String _text = "已储存原材料的数量。"; }
-		{ String _name = "Custom5Tip";			String _text = "已储存建筑材料的数量"; }
-		{ String _name = "Custom6Tip";			String _text = "已储存贵重品的数量。"; }
-		{ String _name = "Custom7Tip";			String _text = "已储存杂项物品的数量。"; }
-		{ String _name = "Custom8Tip";			String _text = "预留供未来使用。"; }
-		{ String _name = "Custom9Tip";			String _text = "已储存消耗品的数量。"; }
-
-		{ String _name = "SeasonTip";			String _text = "当前季节及城镇建立的年数。"; }
-		{ String _name = "HealthTip";			String _text = "市民的平均健康度。"; }
-		{ String _name = "HappyTip";			String _text = "市民的平均幸福度。"; }
-
-		{ String _name = "StatusHomeTip";		String _text = "有市民没有住所！点击此处可选中并依次切换查看。"; }
-		{ String _name = "StatusFoodTip";		String _text = "有市民正在挨饿！点击此处可选中并依次切换查看。"; }
-		{ String _name = "StatusColdTip";		String _text = "有市民正在挨冻！点击此处可选中并依次切换查看。"; }
-		{ String _name = "StatusJobTip";		String _text = "有市民没有工作。点击此处可选中并依次切换查看。"; }
-		{ String _name = "StatusToolTip";		String _text = "有市民没有工具！点击此处可选中并依次切换查看。"; }
-		{ String _name = "StatusDiseaseTip";	String _text = "有市民患病！点击此处可选中并依次切换查看。"; }
-			
-		{ String _name = "StatusHome2Tip";		String _text = "该市民没有住所！"; }
-		{ String _name = "StatusFood2Tip";		String _text = "该市民正在挨饿！"; }
-		{ String _name = "StatusCold2Tip";		String _text = "该市民正在挨冻！"; }
-		{ String _name = "StatusJob2Tip";		String _text = "该市民没有工作！"; }
-		{ String _name = "StatusTool2Tip";		String _text = "该市民的工具已损坏！"; }
-		{ String _name = "StatusDisease2Tip";	String _text = "该市民生病了！"; }
-
-		{ String _name = "FemaleTip";			String _text = "女性"; }
-		{ String _name = "MaleTip";				String _text = "男性"; }
-
-		{ String _name = "CitizenName";			String _text = "姓名"; }
-		{ String _name = "CitizenAge";			String _text = "年龄"; }
-		{ String _name = "CitizenHealth";		String _text = "健康"; }
-		{ String _name = "CitizenProfession";	String _text = "职业"; }
-		{ String _name = "CitizenGender";		String _text = "性别"; }
-		{ String _name = "CitizenEducated";		String _text = "已受教育"; }
-		{ String _name = "CitizenClothing";		String _text = "衣物"; }
-		{ String _name = "CitizenTool";			String _text = "工具"; }
-		{ String _name = "CitizenHappy";		String _text = "幸福度"; }
-
-		{ String _name = "GotoProfessionTip";	String _text = "将视角居中于该市民的工作地点。"; }
-		{ String _name = "GotoHomeTip";			String _text = "将视角居中于该市民的住所。"; }
-		{ String _name = "GotoEventTip";		String _text = "将视角居中于事件发生地点。"; }
-
-		{ String _name = "Product";				String _text = "产品"; }
-		{ String _name = "ProductTip";			String _text = "控制此建筑生产的物品类型。"; }
-
-		{ String _name = "Stats";				String _text = "状态"; }
-		{ String _name = "Professions";			String _text = "职业"; }
-
-		{ String _name = "Profession";			String _text = "职业"; }
-		{ String _name = "Workers";				String _text = "已分配"; }
-		{ String _name = "Jobs";				String _text = "岗位"; }
-		{ String _name = "Locations";			String _text = "地点"; }
-		{ String _name = "Goto";				String _text = "前往"; }
-		{ String _name = "Show";				String _text = "显示"; }
-		{ String _name = "Sort";				String _text = "排序"; }
-
-		{ String _name = "Year";				String _text = "年"; }
-		{ String _name = "Month";				String _text = "季节"; }
-		{ String _name = "Homes";				String _text = "住所"; }
-		{ String _name = "Citizens";			String _text = "市民"; }
-		{ String _name = "Adults";				String _text = "成人"; }
-		{ String _name = "Students";			String _text = "学生"; }
-		{ String _name = "Children";			String _text = "儿童"; }
-		{ String _name = "Clothed";				String _text = "已着衣"; }
-		{ String _name = "Educated";			String _text = "已受教育"; }
-		{ String _name = "Health";				String _text = "健康"; }
-		{ String _name = "Happiness";			String _text = "幸福度"; }
-		{ String _name = "Families";			String _text = "家庭"; }
-
-		{ String _name = "Topic";				String _text = "主题"; }
-		{ String _name = "HelpBackTip";			String _text = "点击返回上一页。"; }
-		{ String _name = "HelpForwardTip";		String _text = "点击前往下一页。"; }
-
-		{ String _name = "BuildingStatusPausedTip";		String _text = "此建筑的施工已暂停。"; }
-		{ String _name = "BuildingStatusDisabledTip";	String _text = "此地点的工作已被禁用。"; }
-		{ String _name = "BuildingStatusLimitTip";		String _text = "此资源的生产上限已达到"; }
-		{ String _name = "BuildingStatusNoWorkTip";		String _text = "缺少完成工作所需的材料。"; }
-		{ String _name = "BuildingStatusNoWorkersTip";	String _text = "没有可在此地点工作的市民。"; }
-		{ String _name = "BuildingStatusDestroyTip";	String _text = "此建筑正在被拆除。"; }
-
-		{ String _name = "ThisYear";			String _text = "本季度"; }
-		{ String _name = "PrevYear";			String _text = "上一季度"; }
-
-		{ String _name = "EventNotifyDeathOldTip";		String _text = "切换因年老死亡的弹窗提示。"; }
-		{ String _name = "EventNotifyDeathTip";			String _text = "切换死亡事件的弹窗提示。"; }
-		{ String _name = "EventNotifyDisasterTip";		String _text = "切换灾害事件的弹窗提示。"; }
-		{ String _name = "EventNotifyStorageTip";		String _text = "切换资源与存储数值的弹窗提示。"; }
-		{ String _name = "EventNotifyTownTip";			String _text = "切换城镇事件的弹窗提示。"; }
-	]
-}
-
-StringTable graphTypes
-{
-	Entry _strings
-	[ 
-		{ String _name = "Type0";			String _text = "人口"; }
-		{ String _name = "Type1";			String _text = "市民"; }
-		{ String _name = "Type2";			String _text = "食物"; }
-		{ String _name = "Type3";			String _text = "原木"; }
-		{ String _name = "Type4";			String _text = "石料"; }
-		{ String _name = "Type5";			String _text = "铁"; }
-		{ String _name = "Type6";			String _text = "柴火"; }
-		{ String _name = "Type7";			String _text = "煤炭"; }
-		{ String _name = "Type8";			String _text = "工具"; }
-		{ String _name = "Type9";			String _text = "草药"; }
-		{ String _name = "Type10";			String _text = "衣物"; }
-		{ String _name = "Type11";			String _text = "奢侈品"; }
-		{ String _name = "Type12";			String _text = "纺织品"; }
-
-		{ String _name = "Type13";			String _text = "工艺品"; }
-		{ String _name = "Type14";			String _text = "锻造品"; }
-		{ String _name = "Type15";			String _text = "加工纺织品"; }
-		{ String _name = "Type16";			String _text = "矿物/矿石"; }
-		{ String _name = "Type17";			String _text = "原材料"; }
-		{ String _name = "Type18";			String _text = "建筑材料"; }
-		{ String _name = "Type19";			String _text = "贵重品"; }
-		{ String _name = "Type20";			String _text = "杂项"; }
-		{ String _name = "Type21";			String _text = "预留"; }
-		{ String _name = "Type22";			String _text = "消耗品"; }
-
-	]
-}
-
-
-StringTable startConditions
-{
-	Entry _strings
-	[
-		{ String _name = "HardName";			String _text = "困难"; }
-		{ String _name = "HardDesc";			String _text = "困难难度以四个家庭开始游戏。提供少量衣物、食物、柴火和工具，没有可用于耕种的种子。"; }
-
-		{ String _name = "MediumName";			String _text = "中等"; }
-		{ String _name = "MediumDesc";			String _text = "中等难度以五个家庭开始游戏。提供衣物、食物、柴火、工具和建筑材料，并已建成一座仓库。备有部分农田与果园用的种子。"; }
-
-		{ String _name = "EasyName";			String _text = "简单"; }
-		{ String _name = "EasyDesc";			String _text = "简单难度以六个家庭开始游戏。提供大量衣物、食物、柴火、建筑材料和工具，住宅与储藏区域均已建成。备有农田与果园用的种子，以及一群牲畜。"; }
-
-		{ String _name = "StartSettlers10Name";		String _text = "开局移民 10"; }
-		{ String _name = "StartSettlers10Desc";		String _text = "10 个家庭，小麦、桃子和李子。"; }
-
-		
-		{ String _name = "HardPrairieName";			String _text = "困难·草原"; }
-		{ String _name = "HardPrairieDesc";			String _text = "困难难度以四个家庭开始游戏。提供少量衣物、食物、柴火和工具，没有可用于耕种的种子。适合在草原地图上游玩。"; }
-
-		{ String _name = "MediumPrairieName";			String _text = "中等·草原"; }
-		{ String _name = "MediumPrairieDesc";			String _text = "中等难度以五个家庭开始游戏。提供衣物、食物、柴火、工具和建筑材料，并已建成一座仓库。备有部分农田与果园用的种子。适合在草原地图上游玩。"; }
-
-		{ String _name = "EasyPrairieName";			String _text = "简单·草原"; }
-		{ String _name = "EasyPrairieDesc";			String _text = "简单难度以六个家庭开始游戏。提供大量衣物、食物、柴火、建筑材料和工具，住宅与储藏区域均已建成。备有农田与果园用的种子，以及一群牲畜。适合在草原地图上游玩。"; }
-
-		{ String _name = "PioneerName";			String _text = "拓荒者车队"; }
-		{ String _name = "PioneerDesc";			String _text = "此模式以六个家庭开始游戏。提供适量的衣物、食物、柴火和工具，环形篷车阵已经搭建完成。备有部分农田用的种子。适合在普通地图上游玩。"; }
-
-		{ String _name = "PrairieName";			String _text = "草原车队"; }
-		{ String _name = "PrairieDesc";			String _text = "此模式以四个家庭开始游戏。提供适量的衣物、食物、柴火和工具，环形篷车阵已经搭建完成。备有部分农田用的种子。适合在草原地图上游玩。"; }
-
-		{ String _name = "PrairieHardName";		String _text = "草原·困难"; }
-		{ String _name = "PrairieHardDesc";		String _text = "此模式以两个家庭开始游戏。提供适量的衣物、食物、柴火和工具，部分篷车已经搭建完成。备有部分农田用的种子。适合在草原地图上游玩。"; }
-																
-		{ String _name = "FairyMediumName";			String _text = "中等·童话"; }
-		{ String _name = "FairyMediumDesc";			String _text = "中等难度以五个家庭开始游戏。提供衣物、食物、柴火、工具和建筑材料，并已建成一座仓库。备有部分农田与果园用的种子。"; }
-
-		{ String _name = "FairyEasyName";			String _text = "简单·童话"; }
-		{ String _name = "FairyEasyDesc";			String _text = "简单难度以八个家庭开始游戏。提供大量衣物、食物、柴火、建筑材料和工具，储藏区域已建成。备有农田与果园用的种子，以及一群牲畜。"; }														
-																
-		{ String _name = "HardSwampName";			String _text = "困难·沼泽"; }
-		{ String _name = "HardSwampDesc";			String _text = "困难难度以四个家庭开始游戏。提供少量衣物、食物、柴火和工具，没有可用于耕种的种子。"; }
-
-		{ String _name = "MediumSwampName";			String _text = "中等·沼泽"; }
-		{ String _name = "MediumSwampDesc";			String _text = "中等难度以五个家庭开始游戏。提供衣物、食物、柴火、工具和建筑材料，并已建成一座仓库。备有部分农田与果园用的种子。"; }
-
-		{ String _name = "EasySwampName";			String _text = "简单·沼泽"; }
-		{ String _name = "EasySwampDesc";			String _text = "简单难度以六个家庭开始游戏。提供大量衣物、食物、柴火、建筑材料和工具，住宅与储藏区域均已建成。备有农田与果园用的种子，以及一群牲畜。"; }														
-																
-		{ String _name = "GrassHardName";			String _text = "草地·困难"; }
-		{ String _name = "GrassHardDesc";			String _text = "困难难度以四个家庭开始游戏。提供少量衣物、食物、柴火和工具，没有可用于耕种的种子。已加入草地。"; }
-
-		{ String _name = "GrassMediumName";			String _text = "草地·中等"; }
-		{ String _name = "GrassMediumDesc";			String _text = "中等难度以五个家庭开始游戏。提供衣物、食物、柴火、工具和建筑材料，并已建成一座仓库。备有部分农田与果园用的种子。已加入草地。"; }
-
-		{ String _name = "GrassEasyName";			String _text = "草地·简单"; }
-		{ String _name = "GrassEasyDesc";			String _text = "简单难度以六个家庭开始游戏。提供大量衣物、食物、柴火、建筑材料和工具，住宅与储藏区域均已建成。备有农田与果园用的种子，以及一群牲畜。已加入草地。"; }																
-																
-		{ String _name = "JapanName";			String _text = "日本"; }
-		{ String _name = "JapanDesc";			String _text = "中等难度的游戏，以六个家庭开始。起始拥有水稻、大豆、茶叶或桑树的种子。拆除蚕箱可获得蚕卵，一座仓库已经建成。"; }																
-	]
-}
-
-StringTable terrainType
-{
-	Entry _strings
-	[
-		{ String _name = "Swamp";		String _text = "沼泽"; }
-		{ String _name = "Valleys";		String _text = "山谷"; }
-		{ String _name = "Mountains";		String _text = "山地"; }
-		{ String _name = "Prairie";		String _text = "草原"; }
-		{ String _name = "RedDesert";		String _text = "红色沙漠"; }
-	]
-}
-
-StringTable climate
-{
-	Entry _strings
-	[
-		{ String _name = "Swampy";			String _text = "多沼泽"; }
-		{ String _name = "Mild";			String _text = "温和"; }
-		{ String _name = "Fair";			String _text = "适中"; }
-		{ String _name = "Harsh";			String _text = "严酷"; }
-		{ String _name = "Desert";			String _text = "沙漠"; }
-	]
-}
+StringTable professions
+{
+	Entry _strings
+	[
+		{	String _name = "ProfessionLaborer";		String _text = "劳工";	}
+		{	String _name = "ProfessionLaborerTip";		String _text = "劳工负责简单的工作，例如清理区域和将产出的物资搬运至仓库。";	}
+		{	String _name = "ProfessionLaborerDeath";	String _text = "因心脏衰弱而去世。";	}
+
+		{	String _name = "ProfessionBuilder";		String _text = "建筑工人";	}
+		{	String _name = "ProfessionBuilderTip";		String _text = "建筑工人负责建造建筑、道路与桥梁。";	}
+		{	String _name = "ProfessionBuilderDeath";	String _text = "从梯子上摔落身亡。";	}
+
+		{	String _name = "ProfessionFarmer";		String _text = "农夫";	}
+		{	String _name = "ProfessionFarmerTip";		String _text = "农民负责照料农田和果园。";	}
+		{	String _name = "ProfessionFarmerDeath";		String _text = "意外身亡。";	}
+
+		{	String _name = "ProfessionHerdsman";		String _text = "牧民";	}	
+		{	String _name = "ProfessionHerdsmanTip";		String _text = "牧民负责照料牧场中的牲畜。";	}	
+		{	String _name = "ProfessionHerdsmanDeath";	String _text = "被牲畜踩死。";	}	
+
+		{	String _name = "ProfessionGatherer";		String _text = "采集者"; }
+		{	String _name = "ProfessionGathererTip";		String _text = "采集者在森林中搜寻根茎和浆果。";	}			
+		{	String _name = "ProfessionGathererDeath";	String _text = "误食毒浆果身亡。"; }
+
+		{	String _name = "ProfessionFisherman";		String _text = "渔夫";	}	
+		{	String _name = "ProfessionFishermanTip";	String _text = "渔夫捕鱼以获取食物。";	}
+		{	String _name = "ProfessionFishermanDeath";	String _text = "溺水身亡。";	}	
+					
+		{	String _name = "ProfessionHunter";		String _text = "猎人";	}
+		{	String _name = "ProfessionHunterTip";		String _text = "猎人在森林中猎捕野味以获取食物。";	}						
+		{	String _name = "ProfessionHunterDeath";		String _text = "被野猪撞死。";	}
+
+		{	String _name = "ProfessionCutter";		String _text = "伐木工";	}
+		{	String _name = "ProfessionCutterTip";		String _text = "伐木工把原木劈成柴火。";	}
+		{	String _name = "ProfessionCutterDeath";		String _text = "被斧头意外砍死。";	}
+
+		{	String _name = "ProfessionForester";		String _text = "护林员";	}
+		{	String _name = "ProfessionForesterTip";		String _text = "护林员种植树苗并砍伐成熟的树木。";	}
+		{	String _name = "ProfessionForesterDeath";	String _text = "被倒下的树木砸死。";	}
+
+		{	String _name = "ProfessionToolMaker";		String _text = "铁匠";	}	
+		{	String _name = "ProfessionToolMakerTip";	String _text = "铁匠用木材和铁矿打造新工具。";	}	
+		{	String _name = "ProfessionToolMakerDeath";	String _text = "在锻造炉中被烧伤身亡。";	}	
+
+		{	String _name = "ProfessionHerbalist";		String _text = "草药师";	}
+		{	String _name = "ProfessionHerbalistTip";	String _text = "草药师采集草药并治疗轻微疾病。";	}
+		{	String _name = "ProfessionHerbalistDeath";	String _text = "误食毒蘑菇身亡。";	}
+
+		{	String _name = "ProfessionBrewer";		String _text = "酿酒师";	}
+		{	String _name = "ProfessionBrewerTip";		String _text = "酿酒师经营酒馆并酿造酒水。";	}
+		{	String _name = "ProfessionBrewerDeath";		String _text = "喝了变质的酒身亡。";	}
+			
+		{	String _name = "ProfessionTailor";		String _text = "裁缝"; }
+		{	String _name = "ProfessionTailorTip";		String _text = "裁缝制作保暖衣物以抵御寒冬。";	}
+		{	String _name = "ProfessionTailorDeath";		String _text = "被谋杀了！"; }
+
+		{	String _name = "ProfessionVendor";		String _text = "商贩";	}
+		{	String _name = "ProfessionVendorTip";		String _text = "商贩在市场中收集并分发货物。";	}
+		{	String _name = "ProfessionVendorDeath";		String _text = "被刺死。";	}
+
+		{	String _name = "ProfessionTrader";		String _text = "贸易商";	}
+		{	String _name = "ProfessionTraderTip";		String _text = "贸易商在贸易站收集并分发货物。";	}
+		{	String _name = "ProfessionTraderDeath";		String _text = "自杀身亡。";	}
+
+		{	String _name = "ProfessionMiner";		String _text = "矿工";	}
+		{	String _name = "ProfessionMinerTip";		String _text = "矿工从地下挖掘铁矿石。";	}
+		{	String _name = "ProfessionMinerDeath";		String _text = "被坍塌事故压死。";	}
+
+		{	String _name = "ProfessionStoneCutter"	;	String _text = "石匠"; }
+		{	String _name = "ProfessionStoneCutterTip";	String _text = "石匠从地下采石。";	}
+		{	String _name = "ProfessionStoneCutterDeath";	String _text = "被岩石压死"; }
+
+		{	String _name = "ProfessionTeacher";		String _text = "教师"; }
+		{	String _name = "ProfessionTeacherTip";		String _text = "教师教育市民，使其能以同样的劳动产出更多资源。";	}
+		{	String _name = "ProfessionTeacherDeath";	String _text = "精神失常并被放逐。"; }
+
+		{	String _name = "ProfessionDoctor";			String _text = "医师"; }
+		{	String _name = "ProfessionDoctorTip";		String _text = "医师治疗疾病，有助于提升市民的健康状况。";	}
+		{	String _name = "ProfessionDoctorDeath";		String _text = "服错药身亡！"; }
+
+		{	String _name = "ProfessionPriest";			String _text = "神职人员"; }
+		{	String _name = "ProfessionPriestTip";		String _text = "神职人员维护礼拜堂，为市民带来快乐。";	}
+		{	String _name = "ProfessionPriestDeath";		String _text = "意外身亡！"; }
+
+		{	String _name = "ProfessionChild";	String _text = "儿童";	}
+		{	String _name = "ProfessionStudent";	String _text = "学生";	}
+	]
+}
+
+StringTable graphTypes
+{
+	Entry _strings
+	[ 
+		{ String _name = "Type0";			String _text = "人口"; }
+		{ String _name = "Type1";			String _text = "市民"; }
+		{ String _name = "Type2";			String _text = "食物"; }
+		{ String _name = "Type3";			String _text = "原木"; }
+		{ String _name = "Type4";			String _text = "石料"; }
+		{ String _name = "Type5";			String _text = "铁"; }
+		{ String _name = "Type6";			String _text = "柴火"; }
+		{ String _name = "Type7";			String _text = "矿物"; }
+		{ String _name = "Type8";			String _text = "工具"; }
+		{ String _name = "Type9";			String _text = "健康"; }
+		{ String _name = "Type10";			String _text = "衣物"; }
+		{ String _name = "Type11";			String _text = "奢侈品"; }
+		{ String _name = "Type12";			String _text = "纺织品"; }
+
+		{ String _name = "Type13";			String _text = "工艺品"; }
+		{ String _name = "Type14";			String _text = "锻造品"; }
+		{ String _name = "Type15";			String _text = "布料"; }
+		{ String _name = "Type16";			String _text = "工业品"; }
+		{ String _name = "Type17";			String _text = "原材料"; }
+		{ String _name = "Type18";			String _text = "建筑材料"; }
+		{ String _name = "Type19";			String _text = "贵重品"; }
+		{ String _name = "Type20";			String _text = "杂项"; }
+		{ String _name = "Type21";			String _text = "预留"; }
+		{ String _name = "Type22";			String _text = "消耗品"; }
+	]
+}
+
+StringTable gameDialogs
+{
+	Entry _strings
+	[
+		{ String _name = "NomadsNone";			String _text = "目前没有流民请求成为市民。"; }
+		{ String _name = "NomadsRequest";		String _text = "现有 @0 名流民请求加入。是否允许他们成为 @1 的市民？"; }
+		{ String _name = "AllowNomad";			String _text = "允许"; }
+		{ String _name = "DenyNomad";			String _text = "拒绝"; }
+		{ String _name = "DenyNomadTip";		String _text = "让流民离开。"; }
+		{ String _name = "AllowNomadTip";		String _text = "授予流民市民身份。"; }
+	
+		{ String _name = "DestroyRemove";		String _text = "此建筑正在被拆除。"; }
+		{ String _name = "DestroyUpgrade";		String _text = "此建筑正在升级。"; }
+		{ String _name = "DestroyDamage";		String _text = "此建筑已严重受损。"; }
+		{ String _name = "DestroyFixing";		String _text = "此建筑正在被替换。"; }
+		{ String _name = "DestroyReclaim";		String _text = "回收"; }
+		{ String _name = "DestroyReclaimTip";	String _text = "停止资源回收，停止拆除此建筑。"; }
+		{ String _name = "DestroyRebuild";		String _text = "重建"; }
+		{ String _name = "DestroyRebuildTip";	String _text = "拆除受损建筑并重建。"; }
+		{ String _name = "DestroyDestroy";		String _text = "拆除"; }
+		{ String _name = "DestroyDestroyTip";	String _text = "拆除受损建筑。"; }
+
+		{ String _name = "TownNameTip";			String _text = "城镇的名称"; }
+		
+		{ String _name = "Clearing";			String _text = "此区域正在清除障碍物。"; }
+		{ String _name = "PercentFull";			String _text = "@0% 已满"; }
+		{ String _name = "PercentRemove";		String _text = "@0% 仓储剩余"; }
+		{ String _name = "PercentDestroy";		String _text = "@0% 已拆除"; }
+		{ String _name = "PercentBuilt";		String _text = "@0% 已完成"; }
+		{ String _name = "PercentYield";		String _text = "@0% 产量"; }
+		{ String _name = "PercentRemaining";	String _text = "@0% 剩余"; }
+		{ String _name = "CountGathered";		String _text = "@0 / @1"; }
+		{ String _name = "CountTotal";			String _text = "共"; }
+		{ String _name = "StudentCount";		String _text = "@0 名学生"; }
+		{ String _name = "PatientCount";		String _text = "@0 名患者"; }
+		{ String _name = "ChapelCount";			String _text = "@0 名成员"; }
+		{ String _name = "Population";			String _text = "@0 / @1 / @2"; }
+		{ String _name = "GraveCount";			String _text = "@0 / @1 座坟墓"; }
+
+		{ String _name = "FollowCitizen";		String _text = "跟随"; }
+		{ String _name = "FollowCitizenTip";	String _text = "在城镇中跟随该市民。"; }
+		{ String _name = "FollowCitizenEnd";	String _text = "退出跟随模式"; }
+		{ String _name = "FollowCitizenInfo";	String _text = "@0（@1）正在"; }
+		{ String _name = "FollowCitizenInfoNameOnly"; String _text = "@0 正在"; }
+
+		{ String _name = "Labor";				String _text = "建造"; }
+		{ String _name = "ClearArea";			String _text = "清除"; }
+		{ String _name = "PauseBuildTip";		String _text = "暂停或恢复此建筑的材料收集与施工"; }
+
+		{ String _name = "CloseTip";			String _text = "关闭此窗口"; }
+		{ String _name = "PinTip";				String _text = "切换固定此窗口，使其保持打开且不再跟随选择变化。"; }
+		{ String _name = "CenterTip";			String _text = "将视角居中于所选对象。"; }
+		{ String _name = "ProductionTip";		String _text = "显示或隐藏此地点的产量统计。"; }
+
+		{ String _name = "ClearAreaTip";		String _text = "需要清除该区域内的树木、岩石及其他障碍物。"; }
+		{ String _name = "ResourceTip";			String _text = "开始施工前需要收集的资源。"; }
+		{ String _name = "LaborTip";			String _text = "使用前需要完成相应的劳动。"; }
+
+		{ String _name = "Details";				String _text = "详情"; }
+		{ String _name = "Occupants";			String _text = "居住者"; }
+		{ String _name = "Inventory";			String _text = "库存"; }
+		{ String _name = "TownInventory";		String _text = "库存"; }
+		{ String _name = "Overview";			String _text = "概览"; }
+		{ String _name = "Graphs";				String _text = "图表"; }
+		{ String _name = "Production";			String _text = "产量"; }
+		{ String _name = "Agri";				String _text = "贸易物品"; }
+		{ String _name = "Nomads";				String _text = "流民"; }
+		{ String _name = "AgriDescription";		String _text = "已获得的种子与牲畜"; }
+		
+		{ String _name = "Order";				String _text = "订单"; }
+		{ String _name = "Purchase";			String _text = "购买"; }
+		{ String _name = "MerchantName";		String _text = "@0（@1）"; }
+		{ String _name = "MerchantOrderName";	String _text = "来自 @0 的定制订单"; }
+		{ String _name = "Autobuy";				String _text = "自动购买"; }
+
+		{ String _name = "PurchasePriorityTip";	String _text = "上下移动该物品以调整购买优先级。"; }
+		{ String _name = "PurchaseCountTip";	String _text = "自动购买的物品数量。"; }
+		
+
+		{ String _name = "TimeRange";			String _text = "时间范围"; }
+		{ String _name = "Graph";				String _text = "图表"; }
+
+		{ String _name = "InventoryItem";		String _text = "物品"; }
+		{ String _name = "InventoryStored";		String _text = "数量"; }
+
+		{ String _name = "EnableWork";			String _text = "工作"; }
+		{ String _name = "EnableWorkTip";		String _text = "启用或禁用此地点的生产。"; }
+		{ String _name = "WorkerCountTip";		String _text = "在此地点工作的市民数量。点击可选中并依次切换工人。"; }
+		{ String _name = "EnableSchoolTip";		String _text = "启用或禁用此学校的教育活动。"; }
+		{ String _name = "ProfessionCountTip";	String _text = "从事此职业的工人总数。"; }
+		{ String _name = "ProfessionJobsTip";	String _text = "此职业可提供的工作岗位总数。"; }
+		{ String _name = "ProfessionGotoTip";   String _text = "选中并依次切换从事此职业的市民。"; }
+		{ String _name = "CitizenGotoTip";		String _text = "将视角聚焦于该市民。"; }
+
+		{ String _name = "EnablePriestTip";		String _text = "启用或禁用此宗教建筑的使用。"; }
+
+		{ String _name = "ForesterCut";			String _text = "砍伐"; }
+		{ String _name = "ForesterPlant";		String _text = "种植"; }
+		{ String _name = "ForesterCutTip";		String _text = "启用或禁用砍伐附近成熟树木。"; }
+		{ String _name = "ForesterPlantTip";	String _text = "启用或禁用种植新树苗。"; }
+		
+		{ String _name = "CropFieldCutTip";		String _text = "立即收获该农田。"; }
+		{ String _name = "CropFieldAutoTip";	String _text = "启用或禁用此地点的自动播种与收获。"; }
+		{ String _name = "CropFieldSelectTip";	String _text = "选择在此地点种植的作物。"; }
+
+		{ String _name = "CropFieldPlant";		String _text = "播种"; }
+		{ String _name = "CropFieldHarvest";	String _text = "收获"; }
+		{ String _name = "CropFieldAuto";		String _text = "工作"; }
+		{ String _name = "CropFieldSelect";		String _text = "选择"; }
+
+		{ String _name = "ReturnToStorage";		String _text = "运回"; }
+		{ String _name = "ReturnToStorageTip";	String _text = "启用后，工人生产的货物会被立即取走并运往仓库；未启用时，货物将留在原地，等待普通劳工来运走。"; }
+
+		{ String _name = "ProductionCurrent";	String _text = "当前"; }
+		{ String _name = "ProductionUsed";		String _text = "已使用"; }
+		{ String _name = "ProductionProduced";	String _text = "已生产"; }
+		{ String _name = "PreviousUsed";		String _text = "已使用（@0年）"; }
+		{ String _name = "PreviousProduced";	String _text = "已生产（@0年）"; }
+
+		{ String _name = "Limit";				String _text = "上限"; }
+		{ String _name = "FuelLimit";			String _text = "燃料上限"; }
+		{ String _name = "FuelLimitShort";		String _text = "燃料"; }
+		{ String _name = "FuelLimitTip";		String _text = "控制燃料的储存数量。达到此上限后将停止生产。"; }
+		{ String _name = "LogLimit";			String _text = "原木上限"; }
+		{ String _name = "LogLimitShort";		String _text = "原木"; }
+		{ String _name = "LogLimitTip";			String _text = "控制原木的储存数量。达到此上限后将停止生产。"; }
+		{ String _name = "HerbLimit";			String _text = "草药上限"; }
+		{ String _name = "HerbLimitShort";		String _text = "草药"; }
+		{ String _name = "HerbLimitTip";		String _text = "控制草药的储存数量。达到此上限后将停止生产。"; }
+		{ String _name = "ToolLimit";			String _text = "工具上限"; }
+		{ String _name = "ToolLimitShort";		String _text = "工具"; }
+		{ String _name = "ToolLimitTip";		String _text = "控制工具的储存数量。达到此上限后将停止生产。"; }
+		{ String _name = "IronLimit";			String _text = "铁矿上限"; }
+		{ String _name = "IronLimitShort";		String _text = "铁"; }
+		{ String _name = "IronLimitTip";		String _text = "控制铁矿的储存数量。达到此上限后将停止生产。"; }
+		{ String _name = "StoneLimit";			String _text = "石料上限"; }
+		{ String _name = "StoneLimitShort";		String _text = "石料"; }
+		{ String _name = "StoneLimitTip";		String _text = "控制石料的储存数量。达到此上限后将停止生产。"; }
+		{ String _name = "FoodLimit";			String _text = "食物上限"; }
+		{ String _name = "FoodLimitShort";		String _text = "食物"; }
+		{ String _name = "FoodLimitTip";		String _text = "控制食物的储存数量。达到此上限后将停止生产。"; }
+		{ String _name = "ClothesLimit";		String _text = "衣物上限"; }
+		{ String _name = "ClothesLimitShort";	String _text = "衣物"; }
+		{ String _name = "ClothesLimitTip";		String _text = "控制衣物的储存数量。达到此上限后将停止生产。"; }
+		{ String _name = "TextileLimit";		String _text = "纺织品上限"; }
+		{ String _name = "TextileLimitShort";	String _text = "纺织品"; }
+		{ String _name = "TextileLimitTip";		String _text = "控制纺织品的储存数量。达到此上限后将停止生产。"; }
+		{ String _name = "AlcoholLimit";		String _text = "奢侈品上限"; }
+		{ String _name = "AlcoholLimitShort";	String _text = "奢侈品"; }
+		{ String _name = "AlcoholLimitTip";		String _text = "控制奢侈品的储存数量。达到此上限后将停止生产。"; }
+		{ String _name = "CoalLimit";		String _text = "矿物/矿石上限"; }
+		{ String _name = "CoalLimitShort";	String _text = "矿物/矿石"; }
+		{ String _name = "CoalLimitTip";		String _text = "控制矿物与矿石的储存数量。达到此上限后将停止生产。"; }
+
+		{ String _name = "Custom0Limit";		String _text = "工艺品上限"; }
+		{ String _name = "Custom0LimitShort";	String _text = "工艺品"; }
+		{ String _name = "Custom0LimitTip";		String _text = "控制工艺品的储存数量。达到此上限后将停止生产。"; }
+		{ String _name = "Custom1Limit";		String _text = "锻造品上限"; }
+		{ String _name = "Custom1LimitShort";	String _text = "锻造品"; }
+		{ String _name = "Custom1LimitTip";		String _text = "控制锻造品的储存数量。达到此上限后将停止生产。"; }
+		{ String _name = "Custom2Limit";		String _text = "加工纺织品上限"; }
+		{ String _name = "Custom2LimitShort";	String _text = "加工纺织品"; }
+		{ String _name = "Custom2LimitTip";		String _text = "控制加工纺织品的储存数量。达到此上限后将停止生产。"; }
+		{ String _name = "Custom3Limit";		String _text = "工业燃料上限"; }
+		{ String _name = "Custom3LimitShort";		String _text = "工业燃料"; }
+		{ String _name = "Custom3LimitTip";		String _text = "控制工业燃料的储存数量。达到此上限后将停止生产。"; }
+		{ String _name = "Custom4Limit";		String _text = "原材料上限"; }
+		{ String _name = "Custom4LimitShort";	String _text = "原材料"; }
+		{ String _name = "Custom4LimitTip";		String _text = "控制原材料的储存数量。达到此上限后将停止生产。"; }
+		{ String _name = "Custom5Limit";		String _text = "建筑材料上限"; }
+		{ String _name = "Custom5LimitShort";	String _text = "建筑材料"; }
+		{ String _name = "Custom5LimitTip";		String _text = "控制建筑材料的储存数量。达到此上限后将停止生产。"; }
+		{ String _name = "Custom6Limit";		String _text = "贵重品上限"; }
+		{ String _name = "Custom6LimitShort";	String _text = "贵重品"; }
+		{ String _name = "Custom6LimitTip";		String _text = "控制贵重品的储存数量。达到此上限后将停止生产。"; }
+		{ String _name = "Custom7Limit";		String _text = "杂项上限"; }
+		{ String _name = "Custom7LimitShort";	String _text = "杂项"; }
+		{ String _name = "Custom7LimitTip";		String _text = "控制杂项物品的储存数量。达到此上限后将停止生产。"; }
+		{ String _name = "Custom8Limit";		String _text = "预留上限"; }
+		{ String _name = "Custom8LimitShort";	String _text = "预留"; }
+		{ String _name = "Custom8LimitTip";		String _text = "预留供未来使用。"; }
+		{ String _name = "Custom9Limit";		String _text = "预留上限"; }
+		{ String _name = "Custom9LimitShort";	String _text = "预留"; }
+		{ String _name = "Custom9LimitTip";		String _text = "预留供未来使用。"; }
+
+		{ String _name = "VegetableLimitShort";	String _text = "蔬菜"; }
+		{ String _name = "FruitLimitShort";		String _text = "水果"; }
+		{ String _name = "MeatLimitShort";		String _text = "肉类"; }
+		{ String _name = "GrainLimitShort";		String _text = "谷物"; }
+
+
+		{ String _name = "SoilQuality";			String _text = "土壤"; }
+		
+		{ String _name = "OrchardHarvestTip";	String _text = "立即收获该果园。"; }
+		{ String _name = "OrchardAutoTip";		String _text = "启用或禁用此地点的自动收获。"; }
+		{ String _name = "OrchardSelectTip";	String _text = "选择在此地点种植的果树类型。"; }
+		{ String _name = "OrchardCutTip";		String _text = "砍倒此果园中的所有树木。"; }
+		{ String _name = "OrchardCut";			String _text = "砍伐"; }
+
+		{ String _name = "PastureEmpty";		String _text = "清空"; }
+		{ String _name = "PastureSplit";		String _text = "分群"; }
+		{ String _name = "PastureEmptyTip";		String _text = "将此牧场中的所有牲畜移走。需要另有一处能容纳这些牲畜的牧场。"; }
+		{ String _name = "PastureSplitTip";		String _text = "将一半牲畜移至另一处牧场。需要另有一处能容纳这些牲畜的牧场。"; }
+		{ String _name = "PastureSelectTip";	String _text = "选择将饲养于此牧场的牲畜。只有牧场为空时才能进行此操作。"; }
+
+		{ String _name = "HerdSize";			String _text = "畜群规模"; }
+		{ String _name = "HerdSizeTip";			String _text = "控制牧场中饲养的牲畜数量。超出此数量的牲畜将被宰杀以获取食物。"; }
+
+		{ String _name = "Trade";				String _text = "交易"; }
+		{ String _name = "Dismiss";				String _text = "打发"; }
+		{ String _name = "DismissTip";			String _text = "如果商人没有你想购买的物品，可将其打发离开。"; }
+		{ String _name = "Total";				String _text = "总计"; }
+		{ String _name = "DesiredTradeTip";		String _text = "希望在贸易站储存的物品数量。"; }
+		{ String _name = "TradeStoredTip";		String _text = "可供交易的物品数量。"; }
+		{ String _name = "TradeSellValueTip";	String _text = "该物品的出售价值。"; }
+		{ String _name = "TradeBuyValueTip";	String _text = "该物品的购买价格。"; }
+		{ String _name = "TradeCountTip";		String _text = "要交易的物品数量。"; }
+		{ String _name = "TradeNotEnough";		String _text = "你还需再交易 @0 个单位才能完成此交易。"; }
+		{ String _name = "TradeTooMuch";		String _text = "你多支付了 @0 个单位。"; }
+		{ String _name = "TradeNoStorage";		String _text = "没有足够的空间储存此次交易中的所有物品。"; }
+
+		{ String _name = "TradeDesired";		String _text = "期望"; }
+		{ String _name = "TradeCount";			String _text = "数量"; }
+		{ String _name = "TradeItem";			String _text = "物品"; }
+		{ String _name = "TradeCost";			String _text = "花费"; }
+		{ String _name = "TradeValue";			String _text = "价值"; }
+
+		{ String _name = "WeatherTip";			String _text = "当前天气与气温。"; }
+		{ String _name = "PopulationTip";		String _text = "成人 / 学生 / 儿童 的数量。"; }
+		{ String _name = "WoodTip";				String _text = "已储存原木的数量。"; }
+		{ String _name = "StoneTip";			String _text = "已储存石料的数量。"; }
+		{ String _name = "IronTip";				String _text = "已储存铁矿的数量。"; }
+		{ String _name = "FirewoodTip";			String _text = "已储存柴火的数量。"; }
+		{ String _name = "ToolsTip";			String _text = "已储存工具的数量。"; }
+		{ String _name = "FoodTip";				String _text = "已储存食物的数量。"; }
+		{ String _name = "HerbsTip";			String _text = "已储存药品的数量。"; }
+		{ String _name = "ClothesTip";			String _text = "已储存衣物的数量。"; }
+		{ String _name = "AlcoholTip";			String _text = "已储存奢侈品的数量。"; }
+		{ String _name = "CoalTip";				String _text = "已储存工业燃料的数量。"; }
+		{ String _name = "TextileTip";			String _text = "已储存纺织品的数量。"; }
+
+		{ String _name = "Custom0Tip";			String _text = "已储存工艺品的数量。"; }
+		{ String _name = "Custom1Tip";			String _text = "已储存锻造品的数量。"; }
+		{ String _name = "Custom2Tip";			String _text = "已储存加工纺织品的数量。"; }
+		{ String _name = "Custom3Tip";			String _text = "已储存工业燃料的数量。"; }
+		{ String _name = "Custom4Tip";			String _text = "已储存原材料的数量。"; }
+		{ String _name = "Custom5Tip";			String _text = "已储存建筑材料的数量"; }
+		{ String _name = "Custom6Tip";			String _text = "已储存贵重品的数量。"; }
+		{ String _name = "Custom7Tip";			String _text = "已储存杂项物品的数量。"; }
+		{ String _name = "Custom8Tip";			String _text = "预留供未来使用。"; }
+		{ String _name = "Custom9Tip";			String _text = "已储存消耗品的数量。"; }
+
+		{ String _name = "SeasonTip";			String _text = "当前季节及城镇建立的年数。"; }
+		{ String _name = "HealthTip";			String _text = "市民的平均健康度。"; }
+		{ String _name = "HappyTip";			String _text = "市民的平均幸福度。"; }
+
+		{ String _name = "StatusHomeTip";		String _text = "有市民没有住所！点击此处可选中并依次切换查看。"; }
+		{ String _name = "StatusFoodTip";		String _text = "有市民正在挨饿！点击此处可选中并依次切换查看。"; }
+		{ String _name = "StatusColdTip";		String _text = "有市民正在挨冻！点击此处可选中并依次切换查看。"; }
+		{ String _name = "StatusJobTip";		String _text = "有市民没有工作。点击此处可选中并依次切换查看。"; }
+		{ String _name = "StatusToolTip";		String _text = "有市民没有工具！点击此处可选中并依次切换查看。"; }
+		{ String _name = "StatusDiseaseTip";	String _text = "有市民患病！点击此处可选中并依次切换查看。"; }
+			
+		{ String _name = "StatusHome2Tip";		String _text = "该市民没有住所！"; }
+		{ String _name = "StatusFood2Tip";		String _text = "该市民正在挨饿！"; }
+		{ String _name = "StatusCold2Tip";		String _text = "该市民正在挨冻！"; }
+		{ String _name = "StatusJob2Tip";		String _text = "该市民没有工作！"; }
+		{ String _name = "StatusTool2Tip";		String _text = "该市民的工具已损坏！"; }
+		{ String _name = "StatusDisease2Tip";	String _text = "该市民生病了！"; }
+
+		{ String _name = "FemaleTip";			String _text = "女性"; }
+		{ String _name = "MaleTip";				String _text = "男性"; }
+
+		{ String _name = "CitizenName";			String _text = "姓名"; }
+		{ String _name = "CitizenAge";			String _text = "年龄"; }
+		{ String _name = "CitizenHealth";		String _text = "健康"; }
+		{ String _name = "CitizenProfession";	String _text = "职业"; }
+		{ String _name = "CitizenGender";		String _text = "性别"; }
+		{ String _name = "CitizenEducated";		String _text = "已受教育"; }
+		{ String _name = "CitizenClothing";		String _text = "衣物"; }
+		{ String _name = "CitizenTool";			String _text = "工具"; }
+		{ String _name = "CitizenHappy";		String _text = "幸福度"; }
+
+		{ String _name = "GotoProfessionTip";	String _text = "将视角居中于该市民的工作地点。"; }
+		{ String _name = "GotoHomeTip";			String _text = "将视角居中于该市民的住所。"; }
+		{ String _name = "GotoEventTip";		String _text = "将视角居中于事件发生地点。"; }
+
+		{ String _name = "Product";				String _text = "产品"; }
+		{ String _name = "ProductTip";			String _text = "控制此建筑生产的物品类型。"; }
+
+		{ String _name = "Stats";				String _text = "状态"; }
+		{ String _name = "Professions";			String _text = "职业"; }
+
+		{ String _name = "Profession";			String _text = "职业"; }
+		{ String _name = "Workers";				String _text = "已分配"; }
+		{ String _name = "Jobs";				String _text = "岗位"; }
+		{ String _name = "Locations";			String _text = "地点"; }
+		{ String _name = "Goto";				String _text = "前往"; }
+		{ String _name = "Show";				String _text = "显示"; }
+		{ String _name = "Sort";				String _text = "排序"; }
+
+		{ String _name = "Year";				String _text = "年"; }
+		{ String _name = "Month";				String _text = "季节"; }
+		{ String _name = "Homes";				String _text = "住所"; }
+		{ String _name = "Citizens";			String _text = "市民"; }
+		{ String _name = "Adults";				String _text = "成人"; }
+		{ String _name = "Students";			String _text = "学生"; }
+		{ String _name = "Children";			String _text = "儿童"; }
+		{ String _name = "Clothed";				String _text = "已着衣"; }
+		{ String _name = "Educated";			String _text = "已受教育"; }
+		{ String _name = "Health";				String _text = "健康"; }
+		{ String _name = "Happiness";			String _text = "幸福度"; }
+		{ String _name = "Families";			String _text = "家庭"; }
+
+		{ String _name = "Topic";				String _text = "主题"; }
+		{ String _name = "HelpBackTip";			String _text = "点击返回上一页。"; }
+		{ String _name = "HelpForwardTip";		String _text = "点击前往下一页。"; }
+
+		{ String _name = "BuildingStatusPausedTip";		String _text = "此建筑的施工已暂停。"; }
+		{ String _name = "BuildingStatusDisabledTip";	String _text = "此地点的工作已被禁用。"; }
+		{ String _name = "BuildingStatusLimitTip";		String _text = "此资源的生产上限已达到"; }
+		{ String _name = "BuildingStatusNoWorkTip";		String _text = "缺少完成工作所需的材料。"; }
+		{ String _name = "BuildingStatusNoWorkersTip";	String _text = "没有可在此地点工作的市民。"; }
+		{ String _name = "BuildingStatusDestroyTip";	String _text = "此建筑正在被拆除。"; }
+
+		{ String _name = "ThisYear";			String _text = "本季度"; }
+		{ String _name = "PrevYear";			String _text = "上一季度"; }
+
+		{ String _name = "EventNotifyDeathOldTip";		String _text = "切换因年老死亡的弹窗提示。"; }
+		{ String _name = "EventNotifyDeathTip";			String _text = "切换死亡事件的弹窗提示。"; }
+		{ String _name = "EventNotifyDisasterTip";		String _text = "切换灾害事件的弹窗提示。"; }
+		{ String _name = "EventNotifyStorageTip";		String _text = "切换资源与存储数值的弹窗提示。"; }
+		{ String _name = "EventNotifyTownTip";			String _text = "切换城镇事件的弹窗提示。"; }
+	]
+}
+
+StringTable graphTypes
+{
+	Entry _strings
+	[ 
+		{ String _name = "Type0";			String _text = "人口"; }
+		{ String _name = "Type1";			String _text = "市民"; }
+		{ String _name = "Type2";			String _text = "食物"; }
+		{ String _name = "Type3";			String _text = "原木"; }
+		{ String _name = "Type4";			String _text = "石料"; }
+		{ String _name = "Type5";			String _text = "铁"; }
+		{ String _name = "Type6";			String _text = "柴火"; }
+		{ String _name = "Type7";			String _text = "煤炭"; }
+		{ String _name = "Type8";			String _text = "工具"; }
+		{ String _name = "Type9";			String _text = "草药"; }
+		{ String _name = "Type10";			String _text = "衣物"; }
+		{ String _name = "Type11";			String _text = "奢侈品"; }
+		{ String _name = "Type12";			String _text = "纺织品"; }
+
+		{ String _name = "Type13";			String _text = "工艺品"; }
+		{ String _name = "Type14";			String _text = "锻造品"; }
+		{ String _name = "Type15";			String _text = "加工纺织品"; }
+		{ String _name = "Type16";			String _text = "矿物/矿石"; }
+		{ String _name = "Type17";			String _text = "原材料"; }
+		{ String _name = "Type18";			String _text = "建筑材料"; }
+		{ String _name = "Type19";			String _text = "贵重品"; }
+		{ String _name = "Type20";			String _text = "杂项"; }
+		{ String _name = "Type21";			String _text = "预留"; }
+		{ String _name = "Type22";			String _text = "消耗品"; }
+
+	]
+}
+
+
+StringTable startConditions
+{
+	Entry _strings
+	[
+		{ String _name = "HardName";			String _text = "困难"; }
+		{ String _name = "HardDesc";			String _text = "困难难度以四个家庭开始游戏。提供少量衣物、食物、柴火和工具，没有可用于耕种的种子。"; }
+
+		{ String _name = "MediumName";			String _text = "中等"; }
+		{ String _name = "MediumDesc";			String _text = "中等难度以五个家庭开始游戏。提供衣物、食物、柴火、工具和建筑材料，并已建成一座仓库。备有部分农田与果园用的种子。"; }
+
+		{ String _name = "EasyName";			String _text = "简单"; }
+		{ String _name = "EasyDesc";			String _text = "简单难度以六个家庭开始游戏。提供大量衣物、食物、柴火、建筑材料和工具，住宅与储藏区域均已建成。备有农田与果园用的种子，以及一群牲畜。"; }
+
+		{ String _name = "StartSettlers10Name";		String _text = "开局移民 10"; }
+		{ String _name = "StartSettlers10Desc";		String _text = "10 个家庭，小麦、桃子和李子。"; }
+
+		
+		{ String _name = "HardPrairieName";			String _text = "困难·草原"; }
+		{ String _name = "HardPrairieDesc";			String _text = "困难难度以四个家庭开始游戏。提供少量衣物、食物、柴火和工具，没有可用于耕种的种子。适合在草原地图上游玩。"; }
+
+		{ String _name = "MediumPrairieName";			String _text = "中等·草原"; }
+		{ String _name = "MediumPrairieDesc";			String _text = "中等难度以五个家庭开始游戏。提供衣物、食物、柴火、工具和建筑材料，并已建成一座仓库。备有部分农田与果园用的种子。适合在草原地图上游玩。"; }
+
+		{ String _name = "EasyPrairieName";			String _text = "简单·草原"; }
+		{ String _name = "EasyPrairieDesc";			String _text = "简单难度以六个家庭开始游戏。提供大量衣物、食物、柴火、建筑材料和工具，住宅与储藏区域均已建成。备有农田与果园用的种子，以及一群牲畜。适合在草原地图上游玩。"; }
+
+		{ String _name = "PioneerName";			String _text = "拓荒者车队"; }
+		{ String _name = "PioneerDesc";			String _text = "此模式以六个家庭开始游戏。提供适量的衣物、食物、柴火和工具，环形篷车阵已经搭建完成。备有部分农田用的种子。适合在普通地图上游玩。"; }
+
+		{ String _name = "PrairieName";			String _text = "草原车队"; }
+		{ String _name = "PrairieDesc";			String _text = "此模式以四个家庭开始游戏。提供适量的衣物、食物、柴火和工具，环形篷车阵已经搭建完成。备有部分农田用的种子。适合在草原地图上游玩。"; }
+
+		{ String _name = "PrairieHardName";		String _text = "草原·困难"; }
+		{ String _name = "PrairieHardDesc";		String _text = "此模式以两个家庭开始游戏。提供适量的衣物、食物、柴火和工具，部分篷车已经搭建完成。备有部分农田用的种子。适合在草原地图上游玩。"; }
+																
+		{ String _name = "FairyMediumName";			String _text = "中等·童话"; }
+		{ String _name = "FairyMediumDesc";			String _text = "中等难度以五个家庭开始游戏。提供衣物、食物、柴火、工具和建筑材料，并已建成一座仓库。备有部分农田与果园用的种子。"; }
+
+		{ String _name = "FairyEasyName";			String _text = "简单·童话"; }
+		{ String _name = "FairyEasyDesc";			String _text = "简单难度以八个家庭开始游戏。提供大量衣物、食物、柴火、建筑材料和工具，储藏区域已建成。备有农田与果园用的种子，以及一群牲畜。"; }														
+																
+		{ String _name = "HardSwampName";			String _text = "困难·沼泽"; }
+		{ String _name = "HardSwampDesc";			String _text = "困难难度以四个家庭开始游戏。提供少量衣物、食物、柴火和工具，没有可用于耕种的种子。"; }
+
+		{ String _name = "MediumSwampName";			String _text = "中等·沼泽"; }
+		{ String _name = "MediumSwampDesc";			String _text = "中等难度以五个家庭开始游戏。提供衣物、食物、柴火、工具和建筑材料，并已建成一座仓库。备有部分农田与果园用的种子。"; }
+
+		{ String _name = "EasySwampName";			String _text = "简单·沼泽"; }
+		{ String _name = "EasySwampDesc";			String _text = "简单难度以六个家庭开始游戏。提供大量衣物、食物、柴火、建筑材料和工具，住宅与储藏区域均已建成。备有农田与果园用的种子，以及一群牲畜。"; }														
+																
+		{ String _name = "GrassHardName";			String _text = "草地·困难"; }
+		{ String _name = "GrassHardDesc";			String _text = "困难难度以四个家庭开始游戏。提供少量衣物、食物、柴火和工具，没有可用于耕种的种子。已加入草地。"; }
+
+		{ String _name = "GrassMediumName";			String _text = "草地·中等"; }
+		{ String _name = "GrassMediumDesc";			String _text = "中等难度以五个家庭开始游戏。提供衣物、食物、柴火、工具和建筑材料，并已建成一座仓库。备有部分农田与果园用的种子。已加入草地。"; }
+
+		{ String _name = "GrassEasyName";			String _text = "草地·简单"; }
+		{ String _name = "GrassEasyDesc";			String _text = "简单难度以六个家庭开始游戏。提供大量衣物、食物、柴火、建筑材料和工具，住宅与储藏区域均已建成。备有农田与果园用的种子，以及一群牲畜。已加入草地。"; }																
+																
+		{ String _name = "JapanName";			String _text = "日本"; }
+		{ String _name = "JapanDesc";			String _text = "中等难度的游戏，以六个家庭开始。起始拥有水稻、大豆、茶叶或桑树的种子。拆除蚕箱可获得蚕卵，一座仓库已经建成。"; }																
+	]
+}
+
+StringTable terrainType
+{
+	Entry _strings
+	[
+		{ String _name = "Swamp";		String _text = "沼泽"; }
+		{ String _name = "Valleys";		String _text = "山谷"; }
+		{ String _name = "Mountains";		String _text = "山地"; }
+		{ String _name = "Prairie";		String _text = "草原"; }
+		{ String _name = "RedDesert";		String _text = "红色沙漠"; }
+	]
+}
+
+StringTable climate
+{
+	Entry _strings
+	[
+		{ String _name = "Swampy";			String _text = "多沼泽"; }
+		{ String _name = "Mild";			String _text = "温和"; }
+		{ String _name = "Fair";			String _text = "适中"; }
+		{ String _name = "Harsh";			String _text = "严酷"; }
+		{ String _name = "Desert";			String _text = "沙漠"; }
+	]
+}
 
 
 StringTable general

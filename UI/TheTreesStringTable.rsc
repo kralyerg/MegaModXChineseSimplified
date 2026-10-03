@@ -110,6 +110,116 @@ StringTable resource
 			String _name = "TreeGreyTip";
 			String _text = "一棵灰色的树。";
 		}
+
+		// --- merged from IdleCoreRecovered/IdleSCTRecovered aliases, 2026-10-03 ---
+		{
+			String _name = "Impossible";
+			String _text = "不可能的树木物品";
+		}
+		{
+			String _name = "ImpossibleLwr";
+			String _text = "不可能的树木物品";
+		}
+		{
+			String _name = "ImpossibleTip";
+			String _text = "在你的城镇中种植各种奇特的树木。";
+		}
+		{
+			String _name = "ImpossibleTreeiteams";
+			String _text = "不可能的树木物品";
+		}
+		{
+			String _name = "ImpossibleTreeiteamsLwr";
+			String _text = "不可能的树木物品";
+		}
+		{
+			String _name = "ImpossibleTreeiteamsTip";
+			String _text = "在你的城镇中种植各种奇特的树木。";
+		}
+		{
+			String _name = "ImpossibleTrees";
+			String _text = "不可能的树木物品";
+		}
+		{
+			String _name = "ImpossibleTreesLwr";
+			String _text = "不可能的树木物品";
+		}
+		{
+			String _name = "ImpossibleTreesTip";
+			String _text = "在你的城镇中种植各种奇特的树木。";
+		}
+		{
+			String _name = "TheTree";
+			String _text = "不可能的树木物品";
+		}
+		{
+			String _name = "TheTreeLwr";
+			String _text = "不可能的树木物品";
+		}
+		{
+			String _name = "TheTreeTip";
+			String _text = "在你的城镇中种植各种奇特的树木。";
+		}
+		{
+			String _name = "TheTreePoints";
+			String _text = "不可能的树木物品";
+		}
+		{
+			String _name = "TheTreePointsLwr";
+			String _text = "不可能的树木物品";
+		}
+		{
+			String _name = "TheTreePointsTip";
+			String _text = "在你的城镇中种植各种奇特的树木。";
+		}
+		{
+			String _name = "TheTrees";
+			String _text = "不可能的树木物品";
+		}
+		{
+			String _name = "TheTreesLwr";
+			String _text = "不可能的树木物品";
+		}
+		{
+			String _name = "TheTreesTip";
+			String _text = "在你的城镇中种植各种奇特的树木。";
+		}
+		{
+			String _name = "Tree";
+			String _text = "不可能的树木物品";
+		}
+		{
+			String _name = "TreeLwr";
+			String _text = "不可能的树木物品";
+		}
+		{
+			String _name = "TreeTip";
+			String _text = "在你的城镇中种植各种奇特的树木。";
+		}
+		{
+			String _name = "Trees";
+			String _text = "不可能的树木物品";
+		}
+		{
+			String _name = "TreesLwr";
+			String _text = "不可能的树木物品";
+		}
+		{
+			String _name = "TreesTip";
+			String _text = "在你的城镇中种植各种奇特的树木。";
+		}
+		{
+			String _name = "impossibletreeiteams";
+			String _text = "不可能的树木物品";
+		}
+		{
+			String _name = "impossibletreeiteamsLwr";
+			String _text = "不可能的树木物品";
+		}
+		{
+			String _name = "impossibletreeiteamsTip";
+			String _text = "在你的城镇中种植各种奇特的树木。";
+		}
 	]
 
 }

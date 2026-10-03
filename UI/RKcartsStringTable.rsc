@@ -24,7 +24,7 @@ StringTable resource
 		}
 		{
 			String _name = "RKnewCartsConstructionTip";
-			String _text = "~"推车：建筑材料~"是一种与推车同样大小的专业化微型市场，雇佣1-2名摊贩，容量为1500重量。";
+			String _text = "“推车：建筑材料”是一种与推车同样大小的专业化微型市场，雇佣1-2名摊贩，容量为1500重量。";
 		}
 		{
 			String _name = "RKnewCartsCrafted";
@@ -36,7 +36,7 @@ StringTable resource
 		}
 		{
 			String _name = "RKnewCartsCraftedTip";
-			String _text = "~"推车：手工制品~"是一种与推车同样大小的专业化微型市场，雇佣1-2名摊贩，容量为1500重量。";
+			String _text = "“推车：手工制品”是一种与推车同样大小的专业化微型市场，雇佣1-2名摊贩，容量为1500重量。";
 		}
 		{
 			String _name = "RKnewCartsFabrics";
@@ -48,7 +48,7 @@ StringTable resource
 		}
 		{
 			String _name = "RKnewCartsFabricsTip";
-			String _text = "~"推车：织物~"是一种与推车同样大小的专业化微型市场，雇佣1-2名摊贩，容量为1500重量。";
+			String _text = "“推车：织物”是一种与推车同样大小的专业化微型市场，雇佣1-2名摊贩，容量为1500重量。";
 		}
 		{
 			String _name = "RKnewCartsForged";
@@ -60,7 +60,7 @@ StringTable resource
 		}
 		{
 			String _name = "RKnewCartsForgedTip";
-			String _text = "~"推车：锻造品~"是一种与推车同样大小的专业化微型市场，雇佣1-2名摊贩，容量为1500重量。";
+			String _text = "“推车：锻造品”是一种与推车同样大小的专业化微型市场，雇佣1-2名摊贩，容量为1500重量。";
 		}
 		{
 			String _name = "RKnewCartsFuel";
@@ -72,7 +72,7 @@ StringTable resource
 		}
 		{
 			String _name = "RKnewCartsFuelTip";
-			String _text = "~"推车：燃料~"是一种与推车同样大小的专业化微型市场，雇佣1-2名摊贩，容量为1500重量。";
+			String _text = "“推车：燃料”是一种与推车同样大小的专业化微型市场，雇佣1-2名摊贩，容量为1500重量。";
 		}
 		{
 			String _name = "RKnewCartsIron";
@@ -84,7 +84,7 @@ StringTable resource
 		}
 		{
 			String _name = "RKnewCartsIronTip";
-			String _text = "~"推车：铁~"是一种与推车同样大小的专业化微型市场，雇佣1-2名摊贩，容量为1500重量。";
+			String _text = "“推车：铁”是一种与推车同样大小的专业化微型市场，雇佣1-2名摊贩，容量为1500重量。";
 		}
 		{
 			String _name = "RKnewCartsMaterials";
@@ -96,7 +96,7 @@ StringTable resource
 		}
 		{
 			String _name = "RKnewCartsMaterialsTip";
-			String _text = "~"推车：材料~"是一种与推车同样大小的专业化微型市场，雇佣1-2名摊贩，容量为1500重量。";
+			String _text = "“推车：材料”是一种与推车同样大小的专业化微型市场，雇佣1-2名摊贩，容量为1500重量。";
 		}
 		{
 			String _name = "RKnewCartsMinerals";
@@ -108,7 +108,7 @@ StringTable resource
 		}
 		{
 			String _name = "RKnewCartsMineralsTip";
-			String _text = "~"推车：矿物~"是一种与推车同样大小的专业化微型市场，雇佣1-2名摊贩，容量为1500重量。";
+			String _text = "“推车：矿物”是一种与推车同样大小的专业化微型市场，雇佣1-2名摊贩，容量为1500重量。";
 		}
 		{
 			String _name = "RKnewCartsMisc";
@@ -120,7 +120,7 @@ StringTable resource
 		}
 		{
 			String _name = "RKnewCartsMiscTip";
-			String _text = "~"推车：杂项~"是一种与推车同样大小的专业化微型市场，雇佣1-2名摊贩，容量为1500重量。";
+			String _text = "“推车：杂项”是一种与推车同样大小的专业化微型市场，雇佣1-2名摊贩，容量为1500重量。";
 		}
 		{
 			String _name = "RKnewCartsPrecious";

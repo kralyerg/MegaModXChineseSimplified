@@ -112,7 +112,7 @@ StringTable resource
 		{ String _name = "AleRequireWheatWater";				String _text = "7-10 麦芽酒（65 小麦 + 35 水）"; }
 		{ String _name = "DSGhostLocalBrewPiles";				String _text = "虚影本地酿酒桶"; }
 		{ String _name = "DSGhostLocalBrewPilesLwr";				String _text = "本地酿酒装饰"; }
-		{ String _name = "DSGhostLocalBrewPilesTip";				String _text = "装饰性本地酿酒桶，虚影放置，免费建造，如需删除需点击木桶并按下~"移除~"按钮。"; }
+		{ String _name = "DSGhostLocalBrewPilesTip";				String _text = "装饰性本地酿酒桶，虚影放置，免费建造，如需删除需点击木桶并按下“移除”按钮。"; }
 		{ String _name = "DSLocalBrewStoragePiles";				String _text = "储藏：酒类"; }
 		{ String _name = "DSLocalBrewStoragePilesLwr";				String _text = "酒类储物堆"; }
 		{ String _name = "DSLocalBrewStoragePilesTip";				String _text = "1x1本地酿酒储藏点，可存放所有酒类与奢侈品，容量300。有F键变体。建造无需工时。"; }

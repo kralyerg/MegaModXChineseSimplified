@@ -670,6 +670,34 @@ StringTable resource
 
 		
 
+	
+		{ String _name = "DSSVFlags1TEST";	String _text = "三角旗 TEST"; }
+		{ String _name = "FishBass";	String _text = "鲈鱼"; }
+		{ String _name = "FishBream";	String _text = "鳊鱼"; }
+		{ String _name = "FishCarp";	String _text = "鲤鱼"; }
+		{ String _name = "FishCod";	String _text = "鳕鱼"; }
+		{ String _name = "FishEel";	String _text = "鳗鱼"; }
+		{ String _name = "FishMullet";	String _text = "鲻鱼"; }
+		{ String _name = "FishPerch";	String _text = "河鲈"; }
+		{ String _name = "FishPike";	String _text = "狗鱼"; }
+		{ String _name = "FishSalmon";	String _text = "鲑鱼"; }
+		{ String _name = "FishTench";	String _text = "丁桂鱼"; }
+		{ String _name = "FishTrout";	String _text = "鳟鱼"; }
+		{ String _name = "MolluscClam";	String _text = "蛤蜊"; }
+		{ String _name = "MolluscMussel";	String _text = "贻贝"; }
+		{ String _name = "MolluscSnail";	String _text = "螺"; }
+		{ String _name = "CanvasCoatRequireFM";	String _text = "1-2帆布外套 [1帆布]（慢速）"; }
+		{ String _name = "DSSVFishermansCatchRequire2";	String _text = "渔夫的收获 [河鲈 + 鲻鱼 + 蛤蜊 + 柴火]"; }
+		{ String _name = "DSSVFishermansCatchRequire3";	String _text = "渔夫的收获 [鲈鱼 + 狗鱼 + 鳗鱼 + 柴火]"; }
+		{ String _name = "DSSVFishermansCatchRequire4";	String _text = "渔夫的收获 [鲑鱼 + 丁桂鱼 + 螺 + 柴火]"; }
+		{ String _name = "BoiledBream";	String _text = "水煮鳊鱼"; }
+		{ String _name = "DSSVBoiledBreamRequire";	String _text = "水煮鳊鱼 [鳊鱼 + 草药 + 水 + 柴火]"; }
+		{ String _name = "ProfessionBeekeeper";	String _text = "养蜂人"; }
+		{ String _name = "ProfessionBeekeeperTip";	String _text = "养蜂人负责照料蜂群。"; }
+		{ String _name = "ProfessionBeekeeperDeath";	String _text = "被蜂王螫伤后死亡。"; }
+		{ String _name = "ProfessionCook";	String _text = "厨师"; }
+		{ String _name = "ProfessionCookTip";	String _text = "厨师会为居民准备餐食。"; }
+		{ String _name = "ProfessionCookDeath";	String _text = "因食用腐肉而死。"; }
 	]
 
 }

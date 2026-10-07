@@ -84,6 +84,8 @@ StringTable professions
 
 		{	String _name = "ProfessionChild";	String _text = "儿童";	}
 		{	String _name = "ProfessionStudent";	String _text = "学生";	}
+	
+		{ String _name = "ProfessionFarmeDeathr";	String _text = "意外去世了。"; }
 	]
 }
 
@@ -8162,4 +8164,36 @@ StringTable keyNames
 
 	]
 
+}
+
+StringTable NeckcenMarkart
+{
+	Entry _strings
+	[
+	{ String _name = "MarkartTip";	String _text = "Markarts，迷你专业市集。"; }
+	{ String _name = "Blacksmith";	String _text = "铁匠市集"; }
+	{ String _name = "BlacksmithLwr";	String _text = "铁匠市集"; }
+	{ String _name = "BlacksmithTip";	String _text = "存放木材、煤炭和铁。"; }
+	{ String _name = "Consumable";	String _text = "消耗品市集"; }
+	{ String _name = "ConsumableLwr";	String _text = "消耗品市集"; }
+	{ String _name = "ConsumableTip";	String _text = "存放工具、衣物、草药和燃料。"; }
+	{ String _name = "ConsumableNoCoal";	String _text = "消耗品市集 #"; }
+	{ String _name = "ConsumableNoCoalLwr";	String _text = "消耗品市集 #"; }
+	{ String _name = "ConsumableNoCoalTip";	String _text = "存放工具、衣物、草药和柴火。"; }
+	{ String _name = "Food";	String _text = "食物市集"; }
+	{ String _name = "FoodLwr";	String _text = "食物市集"; }
+	{ String _name = "FoodTip";	String _text = "存放食物。"; }
+	{ String _name = "FoodNoGrain";	String _text = "食物市集 #"; }
+	{ String _name = "FoodNoGrainLwr";	String _text = "食物市集 #"; }
+	{ String _name = "FoodNoGrainTip";	String _text = "存放食物（谷物除外）。"; }
+	{ String _name = "Tailor";	String _text = "裁缝市集"; }
+	{ String _name = "TailorLwr";	String _text = "裁缝市集"; }
+	{ String _name = "TailorTip";	String _text = "存放纺织品。"; }
+	{ String _name = "Tavern";	String _text = "酒馆市集"; }
+	{ String _name = "TavernLwr";	String _text = "酒馆市集"; }
+	{ String _name = "TavernTip";	String _text = "存放谷物。"; }
+	{ String _name = "Wood";	String _text = "木材市集"; }
+	{ String _name = "WoodLwr";	String _text = "木材市集"; }
+	{ String _name = "WoodTip";	String _text = "存放木材。"; }
+	]
 }

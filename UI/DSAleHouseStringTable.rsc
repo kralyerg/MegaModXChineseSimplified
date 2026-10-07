@@ -166,6 +166,15 @@ StringTable resource
 		{ String _name = "WorkButton";				String _text = "酿造中"; }
 		{ String _name = "WorkButtonStop";				String _text = "已关闭"; }
 
+	
+		{ String _name = "Mead";	String _text = "蜂蜜酒"; }
+		{ String _name = "Honey";	String _text = "蜂蜜"; }
+		{ String _name = "WildHoney";	String _text = "野生蜂蜜"; }
+		{ String _name = "BrewRequireLentils";	String _text = "7-10 麦酒 [100 扁豆]"; }
+		{ String _name = "BrewRequireHoney";	String _text = "7-10 麦酒 [60 蜂蜜]"; }
+		{ String _name = "BrewRequireWildHoney";	String _text = "7-10 麦酒 [60 野生蜂蜜]"; }
+		{ String _name = "MeadRequire";	String _text = "7-10 蜂蜜酒 [60 蜂蜜]"; }
+		{ String _name = "MeadWildHoneyRequire";	String _text = "7-10 蜂蜜酒 [60 野生蜂蜜]"; }
 	]
 
 }

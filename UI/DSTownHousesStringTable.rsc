@@ -83,6 +83,10 @@ StringTable resource
 		{ String _name = "RawMaterialNMCake2Require";			String _text = "16-20 蛋糕 (8 面粉 + 4 蜂蜜 + 1 鸡蛋)"; }
 		{ String _name = "RawMaterialNMCake3Require";			String _text = "16-20 蛋糕 (8 面粉 + 4 浆果 + 1 水)"; }
 		{ String _name = "RawMaterialNMCake4Require";			String _text = "16-20 蛋糕 (8 面粉 + 4 浆果 + 1 鸡蛋)"; }
+		{ String _name = "RawMaterialCake1Require";			String _text = "16-20 蛋糕 (8 面粉 + 4 蜂蜜 + 1 水)"; }
+		{ String _name = "RawMaterialCake2Require";			String _text = "16-20 蛋糕 (8 面粉 + 4 蜂蜜 + 1 鸡蛋)"; }
+		{ String _name = "RawMaterialCake3Require";			String _text = "16-20 蛋糕 (8 面粉 + 4 浆果 + 1 水)"; }
+		{ String _name = "RawMaterialCake4Require";			String _text = "16-20 蛋糕 (8 面粉 + 4 浆果 + 1 鸡蛋)"; }
 		{ String _name = "RawMaterialMeatPieVenisonRequire";	String _text = "9-13 肉馅饼 (4 面粉 + 1 水 + 1 鹿肉)"; }
 		{ String _name = "RawMaterialMeatPieBeefRequire";		String _text = "9-13 肉馅饼 (4 面粉 + 1 水 + 1 牛肉)"; }
 		{ String _name = "RawMaterialMeatPieMuttonRequire";		String _text = "9-13 肉馅饼 (4 面粉 + 1 水 + 1 羊肉)"; }

@@ -79,6 +79,11 @@ StringTable resource
 		{ String _name = "IronOreLimitShort";				String _text = "铁矿石"; }
 		{ String _name = "IronOreLimitTip";				String _text = "控制存储的铁矿石（材料）数量。达到此限额后，所有材料的生产将停止。"; }
 
+	
+		{ String _name = "DSTunnelMine";	String _text = "隧道矿场"; }
+		{ String _name = "DSTunnelMineLwr";	String _text = "隧道矿场"; }
+		{ String _name = "DSTunnelMineTip";	String _text = "一座山地隧道矿场,最多可雇用8名矿工来开采石料、煤炭和铁矿。"; }
+		{ String _name = "DSIronRequire";	String _text = "铁矿"; }
 	]
 
 }

@@ -550,3 +550,15 @@ StringTable resource
 
 }
 
+StringTable merchant
+{
+	Entry _strings
+	[
+	{ String _name = "MerchantFood";	String _text = "食物商人"; }
+	{ String _name = "MerchantGoods";	String _text = "资源商人"; }
+	{ String _name = "MerchantGeneral";	String _text = "杂货商人"; }
+	{ String _name = "MerchantSeed";	String _text = "种子商人"; }
+	{ String _name = "MerchantLivestock";	String _text = "畜牧商人"; }
+	{ String _name = "MerchantBuild";	String _text = "建材商人"; }
+	]
+}
